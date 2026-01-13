@@ -1,0 +1,43 @@
+:root {
+    --font-principale: "Montserrat", sans-serif;
+}
+
+
+body{
+    margin: 0;
+    font-family: var(--font-principale);
+    background-color: #F3EBE3;
+}
+
+header{
+    margin: 25px;
+    background-image: linear-gradient(#C9D7E0, #E5EBEF);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+    padding: 16px;
+    justify-content: space-between;
+}
+
+header>img{
+    width: 30px;
+}
+
+.titre{
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.espace{
+    width: 30px;
+}
+
+
+svg{
+    height: 600px;
+    width: auto;
+}
+
+
+
