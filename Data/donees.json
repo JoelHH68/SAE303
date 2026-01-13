@@ -1,0 +1,2960 @@
+{
+    "Afghanistan": [
+        {
+            "Year": "2018",
+            "Age": "18-69",
+            "Males_Overweight": 25.90,
+            "Males_Obesity": 11.90,
+            "Females_Overweight": 25.60,
+            "Females_Obesity": 23.50,
+            "AllAdults_Overweight": 25.80,
+            "AllAdults_Obesity": 17.00
+        }
+    ],
+    "Albania": [
+        {
+            "Year": "2022",
+            "Age": "16+",
+            "Males_Overweight": 51.00,
+            "Males_Obesity": 11.30,
+            "Females_Overweight": 37.50,
+            "Females_Obesity": 13.40,
+            "AllAdults_Overweight": 44.20,
+            "AllAdults_Obesity": 12.40
+        }
+    ],
+    "Algeria": [
+        {
+            "Year": "2016-2017",
+            "Age": "18-69",
+            "Males_Overweight": 34.20,
+            "Males_Obesity": 14.10,
+            "Females_Overweight": 33.20,
+            "Females_Obesity": 30.10,
+            "AllAdults_Overweight": 33.80,
+            "AllAdults_Obesity": 21.80
+        }
+    ],
+    "American Samoa": [
+        {
+            "Year": "2017-2018",
+            "Age": "18+",
+            "Males_Overweight": null,
+            "Males_Obesity": 77.10,
+            "Females_Overweight": null,
+            "Females_Obesity": 82.70,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": 80.20
+        }
+    ],
+    "Andorra": [
+        {
+            "Year": "2017-2018",
+            "Age": "18-75",
+            "Males_Overweight": 42.50,
+            "Males_Obesity": 13.00,
+            "Females_Overweight": 27.00,
+            "Females_Obesity": 14.40,
+            "AllAdults_Overweight": 35.20,
+            "AllAdults_Obesity": 13.60
+        }
+    ],
+    "Angola": [
+        {
+            "Year": "2023-2024",
+            "Age": "20-49",
+            "Males_Overweight": 8.80,
+            "Males_Obesity": 2.60,
+            "Females_Overweight": 17.90,
+            "Females_Obesity": 9.40,
+            "AllAdults_Overweight": 13.40,
+            "AllAdults_Obesity": 6.00
+        }
+    ],
+    "Anguilla": [
+        {
+            "Year": "2016",
+            "Age": "18-69",
+            "Males_Overweight": 36.00,
+            "Males_Obesity": 30.40,
+            "Females_Overweight": 27.40,
+            "Females_Obesity": 46.50,
+            "AllAdults_Overweight": 31.70,
+            "AllAdults_Obesity": 38.50
+        }
+    ],
+    "Antigua and Barbuda": [
+        {
+            "Year": "1993",
+            "Age": "40+",
+            "Males_Overweight": null,
+            "Males_Obesity": 25.00,
+            "Females_Overweight": null,
+            "Females_Obesity": 60.00,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": 43.10
+        }
+    ],
+    "Argentina": [
+        {
+            "Year": "2018",
+            "Age": "18+",
+            "Males_Overweight": 38.70,
+            "Males_Obesity": 31.40,
+            "Females_Overweight": 29.10,
+            "Females_Obesity": 33.40,
+            "AllAdults_Overweight": 33.70,
+            "AllAdults_Obesity": 32.40
+        }
+    ],
+    "Armenia": [
+        {
+            "Year": "2016",
+            "Age": "18-69",
+            "Males_Overweight": 31.40,
+            "Males_Obesity": 14.00,
+            "Females_Overweight": 25.10,
+            "Females_Obesity": 25.00,
+            "AllAdults_Overweight": 28.20,
+            "AllAdults_Obesity": 19.50
+        }
+    ],
+    "Aruba": [
+        {
+            "Year": "2023",
+            "Age": "18-69",
+            "Males_Overweight": 35.80,
+            "Males_Obesity": 42.80,
+            "Females_Overweight": 30.90,
+            "Females_Obesity": 48.00,
+            "AllAdults_Overweight": 32.90,
+            "AllAdults_Obesity": 45.80
+        }
+    ],
+    "Australia": [
+        {
+            "Year": "2022-2023",
+            "Age": "18+",
+            "Males_Overweight": 38.60,
+            "Males_Obesity": 32.50,
+            "Females_Overweight": 29.60,
+            "Females_Obesity": 30.90,
+            "AllAdults_Overweight": 34.00,
+            "AllAdults_Obesity": 31.70
+        }
+    ],
+    "Austria": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 42.70,
+            "Males_Obesity": 18.70,
+            "Females_Overweight": 27.60,
+            "Females_Obesity": 16.70,
+            "AllAdults_Overweight": 35.00,
+            "AllAdults_Obesity": 17.70
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "Year": "2017-2018",
+            "Age": "18-69",
+            "Males_Overweight": 38.80,
+            "Males_Obesity": 14.70,
+            "Females_Overweight": 30.90,
+            "Females_Obesity": 26.50,
+            "AllAdults_Overweight": 34.80,
+            "AllAdults_Obesity": 20.60
+        }
+    ],
+    "Bahamas": [
+        {
+            "Year": "2019",
+            "Age": "18-69",
+            "Males_Overweight": 35.20,
+            "Males_Obesity": 31.80,
+            "Females_Overweight": 25.80,
+            "Females_Obesity": 54.80,
+            "AllAdults_Overweight": 28.00,
+            "AllAdults_Obesity": 43.60
+        }
+    ],
+    "Bahrain": [
+        {
+            "Year": "2018",
+            "Age": "18+",
+            "Males_Overweight": 38.70,
+            "Males_Obesity": 33.00,
+            "Females_Overweight": 30.90,
+            "Females_Obesity": 42.50,
+            "AllAdults_Overweight": 35.50,
+            "AllAdults_Obesity": 36.90
+        }
+    ],
+    "Bangladesh": [
+        {
+            "Year": "2022",
+            "Age": "M: 20+; F: 20-49",
+            "Males_Overweight": 18.10,
+            "Males_Obesity": 1.90,
+            "Females_Overweight": 30.00,
+            "Females_Obesity": 8.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Barbados": [
+        {
+            "Year": "2011",
+            "Age": "25+",
+            "Males_Overweight": 34.20,
+            "Males_Obesity": 23.40,
+            "Females_Overweight": 30.80,
+            "Females_Obesity": 43.40,
+            "AllAdults_Overweight": 32.40,
+            "AllAdults_Obesity": 33.80
+        }
+    ],
+    "Belarus": [
+        {
+            "Year": "2020",
+            "Age": "18-69",
+            "Males_Overweight": 39.40,
+            "Males_Obesity": 16.60,
+            "Females_Overweight": 28.70,
+            "Females_Obesity": 21.20,
+            "AllAdults_Overweight": 34.10,
+            "AllAdults_Obesity": 18.90
+        }
+    ],
+    "Belgium": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 38.10,
+            "Males_Obesity": 16.90,
+            "Females_Overweight": 28.40,
+            "Females_Obesity": 14.70,
+            "AllAdults_Overweight": 33.20,
+            "AllAdults_Obesity": 15.80
+        }
+    ],
+    "Belize": [
+        {
+            "Year": "2017",
+            "Age": "20-55",
+            "Males_Overweight": null,
+            "Males_Obesity": 31.20,
+            "Females_Overweight": null,
+            "Females_Obesity": 49.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": 40.90
+        }
+    ],
+    "Benin": [
+        {
+            "Year": "2017-2018",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 16.40,
+            "Females_Obesity": 9.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2015",
+            "Age": "18-69",
+            "Males_Overweight": 14.40,
+            "Males_Obesity": 4.70,
+            "Females_Overweight": 17.00,
+            "Females_Obesity": 10.10,
+            "AllAdults_Overweight": 15.70,
+            "AllAdults_Obesity": 7.40
+        }
+    ],
+    "Bermuda": [
+        {
+            "Year": "2013-2014",
+            "Age": "18+",
+            "Males_Overweight": 49.60,
+            "Males_Obesity": 29.40,
+            "Females_Overweight": 29.60,
+            "Females_Obesity": 40.00,
+            "AllAdults_Overweight": 40.20,
+            "AllAdults_Obesity": 34.40
+        }
+    ],
+    "Bhutan": [
+        {
+            "Year": "2023",
+            "Age": "15-69",
+            "Males_Overweight": 33.60,
+            "Males_Obesity": 8.60,
+            "Females_Overweight": 33.10,
+            "Females_Obesity": 16.90,
+            "AllAdults_Overweight": 33.30,
+            "AllAdults_Obesity": 12.50
+        }
+    ],
+    "Bolivia": [
+        {
+            "Year": "2019",
+            "Age": "18-69",
+            "Males_Overweight": 39.10,
+            "Males_Obesity": 20.80,
+            "Females_Overweight": 35.10,
+            "Females_Obesity": 31.80,
+            "AllAdults_Overweight": 37.10,
+            "AllAdults_Obesity": 26.20
+        }
+    ],
+    "Bosnia and Herzegovina": [
+        {
+            "Year": "2012",
+            "Age": "25-64",
+            "Males_Overweight": 49.90,
+            "Males_Obesity": 20.30,
+            "Females_Overweight": 31.90,
+            "Females_Obesity": 24.10,
+            "AllAdults_Overweight": 40.40,
+            "AllAdults_Obesity": 22.30
+        }
+    ],
+    "Botswana": [
+        {
+            "Year": "2014",
+            "Age": "15-69",
+            "Males_Overweight": 14.70,
+            "Males_Obesity": 5.10,
+            "Females_Overweight": 23.20,
+            "Females_Obesity": 19.10,
+            "AllAdults_Overweight": 18.80,
+            "AllAdults_Obesity": 11.80
+        }
+    ],
+    "Brazil": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": 39.60,
+            "Males_Obesity": 23.80,
+            "Females_Overweight": 34.80,
+            "Females_Obesity": 24.80,
+            "AllAdults_Overweight": 37.10,
+            "AllAdults_Obesity": 24.30
+        }
+    ],
+    "British Virgin Islands": [
+        {
+            "Year": "2009",
+            "Age": "25-64",
+            "Males_Overweight": 45.00,
+            "Males_Obesity": 28.40,
+            "Females_Overweight": 32.20,
+            "Females_Obesity": 43.90,
+            "AllAdults_Overweight": 39.20,
+            "AllAdults_Obesity": 35.50
+        }
+    ],
+    "Brunei Darussalam": [
+        {
+            "Year": "2015-2016",
+            "Age": "18-69",
+            "Males_Overweight": 36.30,
+            "Males_Obesity": 26.90,
+            "Females_Overweight": 33.00,
+            "Females_Obesity": 29.50,
+            "AllAdults_Overweight": 34.60,
+            "AllAdults_Obesity": 28.20
+        }
+    ],
+    "Bulgaria": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 49.70,
+            "Males_Obesity": 13.70,
+            "Females_Overweight": 34.90,
+            "Females_Obesity": 9.90,
+            "AllAdults_Overweight": 42.00,
+            "AllAdults_Obesity": 11.70
+        }
+    ],
+    "Burkina Faso": [
+        {
+            "Year": "2021",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 18.10,
+            "Females_Obesity": 7.30,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2013",
+            "Age": "25-64",
+            "Males_Overweight": 10.80,
+            "Males_Obesity": 2.90,
+            "Females_Overweight": 7.20,
+            "Females_Obesity": 6.00,
+            "AllAdults_Overweight": 8.90,
+            "AllAdults_Obesity": 4.50
+        }
+    ],
+    "Burundi": [
+        {
+            "Year": "2016-2017",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 6.10,
+            "Females_Obesity": 1.70,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Cabo Verde": [
+        {
+            "Year": "2020",
+            "Age": "18-69",
+            "Males_Overweight": 27.50,
+            "Males_Obesity": 6.70,
+            "Females_Overweight": 32.40,
+            "Females_Obesity": 22.50,
+            "AllAdults_Overweight": 29.90,
+            "AllAdults_Obesity": 14.30
+        }
+    ],
+    "Cambodia": [
+        {
+            "Year": "2021-2022",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 26.30,
+            "Females_Obesity": 6.30,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2010",
+            "Age": "25-64",
+            "Males_Overweight": 10.50,
+            "Males_Obesity": 1.10,
+            "Females_Overweight": 16.30,
+            "Females_Obesity": 2.70,
+            "AllAdults_Overweight": 13.50,
+            "AllAdults_Obesity": 1.90
+        }
+    ],
+    "Cameroon": [
+        {
+            "Year": "2018",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 23.50,
+            "Females_Obesity": 13.60,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2003",
+            "Age": "15+",
+            "Males_Overweight": 21.60,
+            "Males_Obesity": 6.50,
+            "Females_Overweight": 28.60,
+            "Females_Obesity": 19.50,
+            "AllAdults_Overweight": 25.10,
+            "AllAdults_Obesity": 13.00
+        }
+    ],
+    "Canada": [
+        {
+            "Year": "2022-2024",
+            "Age": "18-79",
+            "Males_Overweight": 39.60,
+            "Males_Obesity": 34.80,
+            "Females_Overweight": 30.20,
+            "Females_Obesity": 32.10,
+            "AllAdults_Overweight": 34.90,
+            "AllAdults_Obesity": 33.50
+        }
+    ],
+    "Canary Islands (Spain)": [
+        {
+            "Year": "2021",
+            "Age": "18+",
+            "Males_Overweight": 37.93,
+            "Males_Obesity": 18.14,
+            "Females_Overweight": 33.02,
+            "Females_Obesity": 18.05,
+            "AllAdults_Overweight": 35.44,
+            "AllAdults_Obesity": 18.10
+        }
+    ],
+    "Cayman Islands": [
+        {
+            "Year": "2023",
+            "Age": "18-69",
+            "Males_Overweight": 41.00,
+            "Males_Obesity": 24.60,
+            "Females_Overweight": 32.70,
+            "Females_Obesity": 41.10,
+            "AllAdults_Overweight": 37.00,
+            "AllAdults_Obesity": 32.70
+        }
+    ],
+    "Central African Republic": [
+        {
+            "Year": "2017",
+            "Age": "25-64",
+            "Males_Overweight": 12.80,
+            "Males_Obesity": 6.90,
+            "Females_Overweight": 19.30,
+            "Females_Obesity": 12.70,
+            "AllAdults_Overweight": 16.00,
+            "AllAdults_Obesity": 9.70
+        }
+    ],
+    "Chad": [
+        {
+            "Year": "2014-2015",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 9.00,
+            "Females_Obesity": 2.50,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2007",
+            "Age": "25-64",
+            "Males_Overweight": 21.50,
+            "Males_Obesity": 8.40,
+            "Females_Overweight": 23.80,
+            "Females_Obesity": 19.90,
+            "AllAdults_Overweight": 22.90,
+            "AllAdults_Obesity": 13.70
+        }
+    ],
+    "Chile": [
+        {
+            "Year": "2016-2017",
+            "Age": "15+",
+            "Males_Overweight": 43.30,
+            "Males_Obesity": 30.30,
+            "Females_Overweight": 36.40,
+            "Females_Obesity": 38.40,
+            "AllAdults_Overweight": 39.80,
+            "AllAdults_Obesity": 34.40
+        }
+    ],
+    "China": [
+        {
+            "Year": "2015",
+            "Age": "18-59",
+            "Males_Overweight": 36.36,
+            "Males_Obesity": 6.30,
+            "Females_Overweight": 28.87,
+            "Females_Obesity": 6.79,
+            "AllAdults_Overweight": 33.07,
+            "AllAdults_Obesity": 6.51
+        }
+    ],
+    "Colombia": [
+        {
+            "Year": "2022",
+            "Age": "18-80",
+            "Males_Overweight": 37.90,
+            "Males_Obesity": 15.60,
+            "Females_Overweight": 36.60,
+            "Females_Obesity": 27.60,
+            "AllAdults_Overweight": 37.20,
+            "AllAdults_Obesity": 21.70
+        }
+    ],
+    "Comoros": [
+        {
+            "Year": "2012",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 24.60,
+            "Females_Obesity": 11.80,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2011",
+            "Age": "25-64",
+            "Males_Overweight": 22.10,
+            "Males_Obesity": 5.50,
+            "Females_Overweight": 30.00,
+            "Females_Obesity": 22.40,
+            "AllAdults_Overweight": 25.90,
+            "AllAdults_Obesity": 13.50
+        }
+    ],
+    "Congo": [
+        {
+            "Year": "2011-2012",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 17.30,
+            "Females_Obesity": 8.80,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2004",
+            "Age": "25-64",
+            "Males_Overweight": 15.50,
+            "Males_Obesity": 2.50,
+            "Females_Overweight": 22.10,
+            "Females_Obesity": 15.00,
+            "AllAdults_Overweight": 18.70,
+            "AllAdults_Obesity": 8.60
+        }
+    ],
+    "Cook Islands": [
+        {
+            "Year": "2022",
+            "Age": "18-69",
+            "Males_Overweight": 18.30,
+            "Males_Obesity": 74.20,
+            "Females_Overweight": 16.10,
+            "Females_Obesity": 76.80,
+            "AllAdults_Overweight": 17.60,
+            "AllAdults_Obesity": 75.00
+        }
+    ],
+    "Costa Rica": [
+        {
+            "Year": "2008-2009",
+            "Age": "20-64",
+            "Males_Overweight": 43.50,
+            "Males_Obesity": 18.90,
+            "Females_Overweight": 35.30,
+            "Females_Obesity": 31.30,
+            "AllAdults_Overweight": 39.40,
+            "AllAdults_Obesity": 25.10
+        }
+    ],
+    "Cote d'Ivoire": [
+        {
+            "Year": "2021",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 24.10,
+            "Females_Obesity": 14.70,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2005",
+            "Age": "15-64",
+            "Males_Overweight": 18.60,
+            "Males_Obesity": 5.10,
+            "Females_Overweight": 24.80,
+            "Females_Obesity": 11.20,
+            "AllAdults_Overweight": 22.00,
+            "AllAdults_Obesity": 8.50
+        }
+    ],
+    "Croatia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 49.30,
+            "Males_Obesity": 21.10,
+            "Females_Overweight": 33.90,
+            "Females_Obesity": 12.70,
+            "AllAdults_Overweight": 41.30,
+            "AllAdults_Obesity": 16.70
+        }
+    ],
+    "Cuba": [
+        {
+            "Year": "2010",
+            "Age": "18+",
+            "Males_Overweight": 32.70,
+            "Males_Obesity": 12.80,
+            "Females_Overweight": 30.80,
+            "Females_Obesity": 18.80,
+            "AllAdults_Overweight": 31.70,
+            "AllAdults_Obesity": 15.80
+        }
+    ],
+    "Cyprus": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 42.60,
+            "Males_Obesity": 16.10,
+            "Females_Overweight": 27.10,
+            "Females_Obesity": 11.60,
+            "AllAdults_Overweight": 34.60,
+            "AllAdults_Obesity": 13.80
+        }
+    ],
+    "Czechia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 45.50,
+            "Males_Obesity": 18.50,
+            "Females_Overweight": 32.30,
+            "Females_Obesity": 17.10,
+            "AllAdults_Overweight": 38.70,
+            "AllAdults_Obesity": 17.80
+        }
+    ],
+    "Democratic Republic of the Congo": [
+        {
+            "Year": "2023",
+            "Age": "20-49",
+            "Males_Overweight": 8.10,
+            "Males_Obesity": 1.30,
+            "Females_Overweight": 15.30,
+            "Females_Obesity": 7.60,
+            "AllAdults_Overweight": 11.70,
+            "AllAdults_Obesity": 4.50
+        },
+        {
+            "Year": "2024",
+            "Age": "20-49",
+            "Males_Overweight": 8.10,
+            "Males_Obesity": 1.30,
+            "Females_Overweight": 15.30,
+            "Females_Obesity": 7.60,
+            "AllAdults_Overweight": 11.70,
+            "AllAdults_Obesity": 4.50
+        }
+    ],
+    "Denmark": [
+        {
+            "Year": "2023",
+            "Age": "16+",
+            "Males_Overweight": 40.40,
+            "Males_Obesity": 18.10,
+            "Females_Overweight": 28.40,
+            "Females_Obesity": 19.20,
+            "AllAdults_Overweight": 34.20,
+            "AllAdults_Obesity": 18.70
+        }
+    ],
+    "Dominica": [
+        {
+            "Year": "2007-2008",
+            "Age": "15-64",
+            "Males_Overweight": 20.90,
+            "Males_Obesity": 8.60,
+            "Females_Overweight": 29.20,
+            "Females_Obesity": 32.70,
+            "AllAdults_Overweight": 24.90,
+            "AllAdults_Obesity": 20.20
+        }
+    ],
+    "Dominican Republic": [
+        {
+            "Year": "2013",
+            "Age": "15-49",
+            "Males_Overweight": 27.80,
+            "Males_Obesity": 13.00,
+            "Females_Overweight": 29.70,
+            "Females_Obesity": 20.80,
+            "AllAdults_Overweight": 28.10,
+            "AllAdults_Obesity": 16.60
+        }
+    ],
+    "Ecuador": [
+        {
+            "Year": "2018",
+            "Age": "18-69",
+            "Males_Overweight": 39.40,
+            "Males_Obesity": 20.30,
+            "Females_Overweight": 36.50,
+            "Females_Obesity": 30.90,
+            "AllAdults_Overweight": 37.90,
+            "AllAdults_Obesity": 25.70
+        }
+    ],
+    "Egypt": [
+        {
+            "Year": "2021-2022",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 30.10,
+            "Females_Obesity": 55.80,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2016-2017",
+            "Age": "15-69",
+            "Males_Overweight": 29.00,
+            "Males_Obesity": 24.80,
+            "Females_Overweight": 25.30,
+            "Females_Obesity": 48.80,
+            "AllAdults_Overweight": 27.30,
+            "AllAdults_Obesity": 35.70
+        }
+    ],
+    "El Salvador": [
+        {
+            "Year": "2014-2015",
+            "Age": "20+",
+            "Males_Overweight": 39.50,
+            "Males_Obesity": 19.50,
+            "Females_Overweight": 36.60,
+            "Females_Obesity": 33.20,
+            "AllAdults_Overweight": 37.90,
+            "AllAdults_Obesity": 27.30
+        }
+    ],
+    "England": [
+        {
+            "Year": "2022",
+            "Age": "16+",
+            "Males_Overweight": 39.00,
+            "Males_Obesity": 28.00,
+            "Females_Overweight": 31.00,
+            "Females_Obesity": 30.00,
+            "AllAdults_Overweight": 35.00,
+            "AllAdults_Obesity": 29.00
+        }
+    ],
+    "Equatorial Guinea": [
+        {
+            "Year": "2011",
+            "Age": "M: 15-59; F: 15-49",
+            "Males_Overweight": 18.70,
+            "Males_Obesity": 4.50,
+            "Females_Overweight": 25.00,
+            "Females_Obesity": 12.70,
+            "AllAdults_Overweight": 21.40,
+            "AllAdults_Obesity": 8.30
+        }
+    ],
+    "Eritrea": [
+        {
+            "Year": "2004",
+            "Age": "15-64",
+            "Males_Overweight": 9.20,
+            "Males_Obesity": 2.00,
+            "Females_Overweight": 13.60,
+            "Females_Obesity": 4.90,
+            "AllAdults_Overweight": 11.10,
+            "AllAdults_Obesity": 3.40
+        }
+    ],
+    "Estonia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 41.30,
+            "Males_Obesity": 20.70,
+            "Females_Overweight": 30.10,
+            "Females_Obesity": 23.30,
+            "AllAdults_Overweight": 35.20,
+            "AllAdults_Obesity": 22.10
+        }
+    ],
+    "Eswatini": [
+        {
+            "Year": "2024",
+            "Age": "18-69",
+            "Males_Overweight": 25.10,
+            "Males_Obesity": 12.10,
+            "Females_Overweight": 28.70,
+            "Females_Obesity": 37.50,
+            "AllAdults_Overweight": 26.90,
+            "AllAdults_Obesity": 24.70
+        }
+    ],
+    "Ethiopia": [
+        {
+            "Year": "2016",
+            "Age": "M: 15-59; F: 15-49",
+            "Males_Overweight": 3.10,
+            "Males_Obesity": 0.40,
+            "Females_Overweight": 6.00,
+            "Females_Obesity": 1.50,
+            "AllAdults_Overweight": 4.40,
+            "AllAdults_Obesity": 1.00
+        }
+    ],
+    "Falkland Islands (Islas Malvinas)": [
+        {
+            "Year": "2019",
+            "Age": "18+",
+            "Males_Overweight": 44.30,
+            "Males_Obesity": 24.60,
+            "Females_Overweight": 30.30,
+            "Females_Obesity": 32.20,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Federated States of Micronesia": [
+        {
+            "Year": "2023-2024",
+            "Age": "18+",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": null,
+            "Females_Obesity": null,
+            "AllAdults_Overweight": 24.00,
+            "AllAdults_Obesity": 57.90
+        },
+        {
+            "Year": "2014",
+            "Age": "18-69",
+            "Males_Overweight": 26.60,
+            "Males_Obesity": 27.50,
+            "Females_Overweight": 25.10,
+            "Females_Obesity": 49.60,
+            "AllAdults_Overweight": 26.00,
+            "AllAdults_Obesity": 37.10
+        }
+    ],
+    "Fiji": [
+        {
+            "Year": "2021",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 25.20,
+            "Females_Obesity": 44.70,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2015",
+            "Age": "18+",
+            "Males_Overweight": 33.50,
+            "Males_Obesity": 21.50,
+            "Females_Overweight": 29.20,
+            "Females_Obesity": 42.00,
+            "AllAdults_Overweight": 31.40,
+            "AllAdults_Obesity": 31.70
+        }
+    ],
+    "Finland": [
+        {
+            "Year": "2023",
+            "Age": "20+",
+            "Males_Overweight": 44.10,
+            "Males_Obesity": 26.90,
+            "Females_Overweight": 34.20,
+            "Females_Obesity": 29.60,
+            "AllAdults_Overweight": 39.10,
+            "AllAdults_Obesity": 28.30
+        }
+    ],
+    "France": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 37.70,
+            "Males_Obesity": 15.10,
+            "Females_Overweight": 25.30,
+            "Females_Obesity": 15.30,
+            "AllAdults_Overweight": 31.20,
+            "AllAdults_Obesity": 15.20
+        }
+    ],
+    "French Guiana": [
+        {
+            "Year": "2019",
+            "Age": "15+",
+            "Males_Overweight": 34.00,
+            "Males_Obesity": 15.00,
+            "Females_Overweight": 28.00,
+            "Females_Obesity": 23.00,
+            "AllAdults_Overweight": 30.00,
+            "AllAdults_Obesity": 19.00
+        }
+    ],
+    "French Polynesia": [
+        {
+            "Year": "2010",
+            "Age": "18-64",
+            "Males_Overweight": 32.20,
+            "Males_Obesity": 38.90,
+            "Females_Overweight": 26.80,
+            "Females_Obesity": 41.90,
+            "AllAdults_Overweight": 29.60,
+            "AllAdults_Obesity": 40.40
+        }
+    ],
+    "Gabon": [
+        {
+            "Year": "2019-2021",
+            "Age": "15-49",
+            "Males_Overweight": 20.90,
+            "Males_Obesity": 8.00,
+            "Females_Overweight": 23.30,
+            "Females_Obesity": 24.70,
+            "AllAdults_Overweight": 22.10,
+            "AllAdults_Obesity": 16.20
+        }
+    ],
+    "Gambia": [
+        {
+            "Year": "2019",
+            "Age": "35+",
+            "Males_Overweight": 21.30,
+            "Males_Obesity": 3.90,
+            "Females_Overweight": 27.90,
+            "Females_Obesity": 20.20,
+            "AllAdults_Overweight": 24.60,
+            "AllAdults_Obesity": 12.00
+        }
+    ],
+    "Georgia": [
+        {
+            "Year": "2016",
+            "Age": "18-69",
+            "Males_Overweight": 35.30,
+            "Males_Obesity": 30.20,
+            "Females_Overweight": 27.90,
+            "Females_Obesity": 36.00,
+            "AllAdults_Overweight": 31.40,
+            "AllAdults_Obesity": 33.20
+        }
+    ],
+    "Germany": [
+        {
+            "Year": "2019",
+            "Age": "18+",
+            "Males_Overweight": 41.60,
+            "Males_Obesity": 19.10,
+            "Females_Overweight": 27.50,
+            "Females_Obesity": 19.00,
+            "AllAdults_Overweight": 34.50,
+            "AllAdults_Obesity": 19.00
+        }
+    ],
+    "Ghana": [
+        {
+            "Year": "2023",
+            "Age": "18-69",
+            "Males_Overweight": 15.20,
+            "Males_Obesity": 4.50,
+            "Females_Overweight": 26.90,
+            "Females_Obesity": 22.80,
+            "AllAdults_Overweight": 20.90,
+            "AllAdults_Obesity": 13.40
+        }
+    ],
+    "Gibraltar (UK)": [
+        {
+            "Year": "2021",
+            "Age": "16+",
+            "Males_Overweight": 44.10,
+            "Males_Obesity": 28.90,
+            "Females_Overweight": 30.70,
+            "Females_Obesity": 28.80,
+            "AllAdults_Overweight": 36.80,
+            "AllAdults_Obesity": 28.90
+        }
+    ],
+    "Greece": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 50.80,
+            "Males_Obesity": 12.30,
+            "Females_Overweight": 35.70,
+            "Females_Obesity": 11.60,
+            "AllAdults_Overweight": 42.90,
+            "AllAdults_Obesity": 12.00
+        }
+    ],
+    "Greenland": [
+        {
+            "Year": "2018",
+            "Age": "15-94",
+            "Males_Overweight": null,
+            "Males_Obesity": 24.00,
+            "Females_Overweight": null,
+            "Females_Obesity": 32.00,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": 28.00
+        }
+    ],
+    "Grenada": [
+        {
+            "Year": "2010-2011",
+            "Age": "25-64",
+            "Males_Overweight": 34.40,
+            "Males_Obesity": 13.90,
+            "Females_Overweight": 32.60,
+            "Females_Obesity": 36.60,
+            "AllAdults_Overweight": 33.50,
+            "AllAdults_Obesity": 25.20
+        }
+    ],
+    "Guadeloupe": [
+        {
+            "Year": "2019",
+            "Age": "15+",
+            "Males_Overweight": 36.00,
+            "Males_Obesity": 14.00,
+            "Females_Overweight": 30.00,
+            "Females_Obesity": 23.00,
+            "AllAdults_Overweight": 33.00,
+            "AllAdults_Obesity": 19.00
+        }
+    ],
+    "Guam": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": 37.30,
+            "Males_Obesity": 35.40,
+            "Females_Overweight": 33.10,
+            "Females_Obesity": 35.40,
+            "AllAdults_Overweight": 34.90,
+            "AllAdults_Obesity": 35.40
+        }
+    ],
+    "Guatemala": [
+        {
+            "Year": "2017",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 40.00,
+            "Females_Obesity": 26.10,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Guinea": [
+        {
+            "Year": "2018",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 18.20,
+            "Females_Obesity": 8.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Guyana": [
+        {
+            "Year": "2016",
+            "Age": "18-69",
+            "Males_Overweight": 25.80,
+            "Males_Obesity": 14.00,
+            "Females_Overweight": 27.80,
+            "Females_Obesity": 34.00,
+            "AllAdults_Overweight": 26.70,
+            "AllAdults_Obesity": 23.60
+        }
+    ],
+    "Haiti": [
+        {
+            "Year": "2016-2017",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 20.50,
+            "Females_Obesity": 11.20,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Honduras": [
+        {
+            "Year": "2011-2012",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 29.20,
+            "Females_Obesity": 22.10,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Hong Kong": [
+        {
+            "Year": "2020-2022",
+            "Age": "15-84",
+            "Males_Overweight": 30.70,
+            "Males_Obesity": 8.70,
+            "Females_Overweight": 21.20,
+            "Females_Obesity": 5.20,
+            "AllAdults_Overweight": 25.70,
+            "AllAdults_Obesity": 6.90
+        }
+    ],
+    "Hungary": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 40.70,
+            "Males_Obesity": 24.60,
+            "Females_Overweight": 32.10,
+            "Females_Obesity": 20.00,
+            "AllAdults_Overweight": 36.20,
+            "AllAdults_Obesity": 22.20
+        }
+    ],
+    "Iceland": [
+        {
+            "Year": "2019",
+            "Age": "18+",
+            "Males_Overweight": 47.10,
+            "Males_Obesity": 24.30,
+            "Females_Overweight": 33.10,
+            "Females_Obesity": 20.50,
+            "AllAdults_Overweight": 39.70,
+            "AllAdults_Obesity": 22.30
+        }
+    ],
+    "India": [
+        {
+            "Year": "2019-2021",
+            "Age": "15-49",
+            "Males_Overweight": 18.90,
+            "Males_Obesity": 4.00,
+            "Females_Overweight": 17.60,
+            "Females_Obesity": 6.40,
+            "AllAdults_Overweight": 18.30,
+            "AllAdults_Obesity": 5.20
+        }
+    ],
+    "Indonesia": [
+        {
+            "Year": "2013",
+            "Age": "19+",
+            "Males_Overweight": 16.30,
+            "Males_Obesity": 3.00,
+            "Females_Overweight": 24.20,
+            "Females_Obesity": 8.20,
+            "AllAdults_Overweight": 20.20,
+            "AllAdults_Obesity": 5.60
+        }
+    ],
+    "Iran": [
+        {
+            "Year": "2021",
+            "Age": "18+",
+            "Males_Overweight": 39.60,
+            "Males_Obesity": 17.20,
+            "Females_Overweight": 36.80,
+            "Females_Obesity": 31.20,
+            "AllAdults_Overweight": 38.10,
+            "AllAdults_Obesity": 25.00
+        }
+    ],
+    "Iraq": [
+        {
+            "Year": "2015",
+            "Age": "18+",
+            "Males_Overweight": 33.10,
+            "Males_Obesity": 25.60,
+            "Females_Overweight": 30.60,
+            "Females_Obesity": 42.60,
+            "AllAdults_Overweight": 31.90,
+            "AllAdults_Obesity": 33.50
+        }
+    ],
+    "Ireland": [
+        {
+            "Year": "2023-2024",
+            "Age": "15+",
+            "Males_Overweight": 41.00,
+            "Males_Obesity": 22.00,
+            "Females_Overweight": 30.00,
+            "Females_Obesity": 20.00,
+            "AllAdults_Overweight": 35.00,
+            "AllAdults_Obesity": 21.00
+        }
+    ],
+    "Isle of Man": [
+        {
+            "Year": "2019",
+            "Age": "18+",
+            "Males_Overweight": 40.60,
+            "Males_Obesity": 31.40,
+            "Females_Overweight": 34.30,
+            "Females_Obesity": 27.70,
+            "AllAdults_Overweight": 36.40,
+            "AllAdults_Obesity": 29.00
+        }
+    ],
+    "Israel": [
+        {
+            "Year": "2018-2020",
+            "Age": "21+",
+            "Males_Overweight": 43.00,
+            "Males_Obesity": 18.90,
+            "Females_Overweight": 33.70,
+            "Females_Obesity": 16.60,
+            "AllAdults_Overweight": 38.30,
+            "AllAdults_Obesity": 17.70
+        }
+    ],
+    "Italy": [
+        {
+            "Year": "2023-2024",
+            "Age": "18-69",
+            "Males_Overweight": 40.70,
+            "Males_Obesity": 11.20,
+            "Females_Overweight": 24.60,
+            "Females_Obesity": 9.60,
+            "AllAdults_Overweight": 32.60,
+            "AllAdults_Obesity": 10.40
+        }
+    ],
+    "Jamaica": [
+        {
+            "Year": "2016-2017",
+            "Age": "15-75",
+            "Males_Overweight": 24.00,
+            "Males_Obesity": 14.90,
+            "Females_Overweight": 26.40,
+            "Females_Obesity": 41.20,
+            "AllAdults_Overweight": 25.20,
+            "AllAdults_Obesity": 28.60
+        }
+    ],
+    "Japan": [
+        {
+            "Year": "2023",
+            "Age": "20+",
+            "Males_Overweight": 26.80,
+            "Males_Obesity": 4.70,
+            "Females_Overweight": 16.70,
+            "Females_Obesity": 4.40,
+            "AllAdults_Overweight": 21.40,
+            "AllAdults_Obesity": 4.60
+        }
+    ],
+    "Jersey": [
+        {
+            "Year": "2021",
+            "Age": "16+",
+            "Males_Overweight": 40.00,
+            "Males_Obesity": 17.00,
+            "Females_Overweight": 24.00,
+            "Females_Obesity": 19.00,
+            "AllAdults_Overweight": 32.00,
+            "AllAdults_Obesity": 18.00
+        }
+    ],
+    "Jordan": [
+        {
+            "Year": "2023",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 32.20,
+            "Females_Obesity": 31.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2017",
+            "Age": "18-90",
+            "Males_Overweight": 41.20,
+            "Males_Obesity": 36.10,
+            "Females_Overweight": 29.10,
+            "Females_Obesity": 48.20,
+            "AllAdults_Overweight": 44.70,
+            "AllAdults_Obesity": 32.70
+        }
+    ],
+    "Kazakhstan": [
+        {
+            "Year": "2012",
+            "Age": "15+",
+            "Males_Overweight": 36.80,
+            "Males_Obesity": 15.90,
+            "Females_Overweight": 32.70,
+            "Females_Obesity": 30.60,
+            "AllAdults_Overweight": 34.70,
+            "AllAdults_Obesity": 23.50
+        }
+    ],
+    "Kenya": [
+        {
+            "Year": "2022",
+            "Age": "20-49",
+            "Males_Overweight": 14.60,
+            "Males_Obesity": 4.20,
+            "Females_Overweight": 27.50,
+            "Females_Obesity": 17.30,
+            "AllAdults_Overweight": 21.10,
+            "AllAdults_Obesity": 10.80
+        }
+    ],
+    "Kiribati": [
+        {
+            "Year": "2018",
+            "Age": "South Tarawa and Butaritari",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": null,
+            "Females_Obesity": null,
+            "AllAdults_Overweight": 28.60,
+            "AllAdults_Obesity": 56.70
+        },
+        {
+            "Year": "2015-2016",
+            "Age": "18-69",
+            "Males_Overweight": 44.60,
+            "Males_Obesity": 32.10,
+            "Females_Overweight": 28.70,
+            "Females_Obesity": 55.60,
+            "AllAdults_Overweight": 35.50,
+            "AllAdults_Obesity": 45.60
+        }
+    ],
+    "Kuwait": [
+        {
+            "Year": "2024",
+            "Age": "19+",
+            "Males_Overweight": null,
+            "Males_Obesity": 30.25,
+            "Females_Overweight": null,
+            "Females_Obesity": 35.48,
+            "AllAdults_Overweight": 41.35,
+            "AllAdults_Obesity": 33.80
+        }
+    ],
+    "Kyrgyzstan": [
+        {
+            "Year": "2021",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 27.20,
+            "Females_Obesity": 17.00,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2013",
+            "Age": "25-64",
+            "Males_Overweight": 31.80,
+            "Males_Obesity": 17.60,
+            "Females_Overweight": 34.50,
+            "Females_Obesity": 29.00,
+            "AllAdults_Overweight": 33.10,
+            "AllAdults_Obesity": 23.10
+        }
+    ],
+    "Laos": [
+        {
+            "Year": "2013",
+            "Age": "18-64",
+            "Males_Overweight": 17.90,
+            "Males_Obesity": 3.50,
+            "Females_Overweight": 20.90,
+            "Females_Obesity": 7.10,
+            "AllAdults_Overweight": 19.70,
+            "AllAdults_Obesity": 5.60
+        }
+    ],
+    "Latvia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 42.20,
+            "Males_Obesity": 21.90,
+            "Females_Overweight": 33.20,
+            "Females_Obesity": 24.40,
+            "AllAdults_Overweight": 37.10,
+            "AllAdults_Obesity": 23.30
+        }
+    ],
+    "Lebanon": [
+        {
+            "Year": "2023",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 28.60,
+            "Females_Obesity": 25.00,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2016-2017",
+            "Age": "18-69",
+            "Males_Overweight": 44.70,
+            "Males_Obesity": 26.60,
+            "Females_Overweight": 31.40,
+            "Females_Obesity": 27.50,
+            "AllAdults_Overweight": 37.90,
+            "AllAdults_Obesity": 27.00
+        }
+    ],
+    "Lesotho": [
+        {
+            "Year": "2023-2024",
+            "Age": "20-49",
+            "Males_Overweight": 15.30,
+            "Males_Obesity": 4.60,
+            "Females_Overweight": 26.50,
+            "Females_Obesity": 35.40,
+            "AllAdults_Overweight": 21.00,
+            "AllAdults_Obesity": 20.40
+        }
+    ],
+    "Liberia": [
+        {
+            "Year": "2022",
+            "Age": "18-69",
+            "Males_Overweight": 15.80,
+            "Males_Obesity": 17.70,
+            "Females_Overweight": 23.30,
+            "Females_Obesity": 22.20,
+            "AllAdults_Overweight": 19.40,
+            "AllAdults_Obesity": 19.90
+        }
+    ],
+    "Libya": [
+        {
+            "Year": "2022-2023",
+            "Age": "18-69",
+            "Males_Overweight": 30.00,
+            "Males_Obesity": 22.00,
+            "Females_Overweight": 25.70,
+            "Females_Obesity": 36.30,
+            "AllAdults_Overweight": 27.90,
+            "AllAdults_Obesity": 28.90
+        }
+    ],
+    "Lithuania": [
+        {
+            "Year": "2022",
+            "Age": "16+",
+            "Males_Overweight": 43.10,
+            "Males_Obesity": 19.80,
+            "Females_Overweight": 34.20,
+            "Females_Obesity": 20.70,
+            "AllAdults_Overweight": 38.20,
+            "AllAdults_Obesity": 20.30
+        }
+    ],
+    "Luxembourg": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 40.90,
+            "Males_Obesity": 19.00,
+            "Females_Overweight": 23.60,
+            "Females_Obesity": 14.70,
+            "AllAdults_Overweight": 32.70,
+            "AllAdults_Obesity": 17.00
+        }
+    ],
+    "Madagascar": [
+        {
+            "Year": "2021",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 11.20,
+            "Females_Obesity": 2.70,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Malawi": [
+        {
+            "Year": "2016",
+            "Age": "18+",
+            "Males_Overweight": 11.00,
+            "Males_Obesity": 2.00,
+            "Females_Overweight": 22.00,
+            "Females_Obesity": 13.00,
+            "AllAdults_Overweight": 16.60,
+            "AllAdults_Obesity": 7.60
+        }
+    ],
+    "Malaysia": [
+        {
+            "Year": "2024",
+            "Age": "18+",
+            "Males_Overweight": 33.90,
+            "Males_Obesity": 19.30,
+            "Females_Overweight": 26.70,
+            "Females_Obesity": 27.50,
+            "AllAdults_Overweight": 30.50,
+            "AllAdults_Obesity": 23.10
+        }
+    ],
+    "Maldives": [
+        {
+            "Year": "2020-2021",
+            "Age": "15-69",
+            "Males_Overweight": 32.40,
+            "Males_Obesity": 14.10,
+            "Females_Overweight": 36.50,
+            "Females_Obesity": 22.80,
+            "AllAdults_Overweight": 34.30,
+            "AllAdults_Obesity": 18.10
+        }
+    ],
+    "Mali": [
+        {
+            "Year": "2023-2024",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 21.40,
+            "Females_Obesity": 12.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2006",
+            "Age": "15-64",
+            "Males_Overweight": 23.20,
+            "Males_Obesity": 8.60,
+            "Females_Overweight": 27.90,
+            "Females_Obesity": 31.50,
+            "AllAdults_Overweight": 25.70,
+            "AllAdults_Obesity": 20.90
+        }
+    ],
+    "Malta": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 41.00,
+            "Males_Obesity": 29.00,
+            "Females_Overweight": 31.20,
+            "Females_Obesity": 23.00,
+            "AllAdults_Overweight": 36.30,
+            "AllAdults_Obesity": 26.10
+        }
+    ],
+    "Marshall Islands": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 29.50,
+            "Females_Obesity": 43.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2016-2017",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 27.60,
+            "Females_Obesity": 45.10,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2002",
+            "Age": "15-64",
+            "Males_Overweight": 33.20,
+            "Males_Obesity": 26.60,
+            "Females_Overweight": 28.30,
+            "Females_Obesity": 37.10,
+            "AllAdults_Overweight": 30.90,
+            "AllAdults_Obesity": 31.60
+        }
+    ],
+    "Martinique": [
+        {
+            "Year": "2019",
+            "Age": "15+",
+            "Males_Overweight": 36.00,
+            "Males_Obesity": 13.00,
+            "Females_Overweight": 32.00,
+            "Females_Obesity": 25.00,
+            "AllAdults_Overweight": 34.00,
+            "AllAdults_Obesity": 20.00
+        }
+    ],
+    "Mauritania": [
+        {
+            "Year": "2019-2021",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 26.90,
+            "Females_Obesity": 26.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2006",
+            "Age": "15-64",
+            "Males_Overweight": 23.20,
+            "Males_Obesity": 8.60,
+            "Females_Overweight": 27.90,
+            "Females_Obesity": 31.50,
+            "AllAdults_Overweight": 25.70,
+            "AllAdults_Obesity": 20.90
+        }
+    ],
+    "Mauritius": [
+        {
+            "Year": "2015",
+            "Age": "18+",
+            "Males_Overweight": 38.30,
+            "Males_Obesity": 11.10,
+            "Females_Overweight": 32.60,
+            "Females_Obesity": 25.80,
+            "AllAdults_Overweight": 35.20,
+            "AllAdults_Obesity": 19.10
+        }
+    ],
+    "Mayotte": [
+        {
+            "Year": "2019",
+            "Age": "15+",
+            "Males_Overweight": 30.00,
+            "Males_Obesity": 16.00,
+            "Females_Overweight": 26.00,
+            "Females_Obesity": 34.00,
+            "AllAdults_Overweight": 28.00,
+            "AllAdults_Obesity": 26.00
+        }
+    ],
+    "Mexico": [
+        {
+            "Year": "2023",
+            "Age": "20+",
+            "Males_Overweight": 40.10,
+            "Males_Obesity": 36.10,
+            "Females_Overweight": 34.60,
+            "Females_Obesity": 41.60,
+            "AllAdults_Overweight": 37.30,
+            "AllAdults_Obesity": 38.90
+        }
+    ],
+    "Moldova": [
+        {
+            "Year": "2021",
+            "Age": "18-69",
+            "Males_Overweight": 49.40,
+            "Males_Obesity": 21.40,
+            "Females_Overweight": 33.00,
+            "Females_Obesity": 24.00,
+            "AllAdults_Overweight": 41.20,
+            "AllAdults_Obesity": 22.70
+        }
+    ],
+    "Mongolia": [
+        {
+            "Year": "2019",
+            "Age": "15-69",
+            "Males_Overweight": 31.40,
+            "Males_Obesity": 16.60,
+            "Females_Overweight": 30.50,
+            "Females_Obesity": 20.40,
+            "AllAdults_Overweight": 30.90,
+            "AllAdults_Obesity": 18.50
+        }
+    ],
+    "Montenegro": [
+        {
+            "Year": "2022",
+            "Age": "16+",
+            "Males_Overweight": 50.70,
+            "Males_Obesity": 9.30,
+            "Females_Overweight": 28.60,
+            "Females_Obesity": 6.00,
+            "AllAdults_Overweight": 39.40,
+            "AllAdults_Obesity": 7.60
+        }
+    ],
+    "Morocco": [
+        {
+            "Year": "2017-2018",
+            "Age": "18+",
+            "Males_Overweight": 31.60,
+            "Males_Obesity": 11.00,
+            "Females_Overweight": 34.40,
+            "Females_Obesity": 29.00,
+            "AllAdults_Overweight": 33.00,
+            "AllAdults_Obesity": 20.00
+        }
+    ],
+    "Mozambique": [
+        {
+            "Year": "2022-2023",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 17.80,
+            "Females_Obesity": 9.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2014",
+            "Age": "25-64",
+            "Males_Overweight": 13.20,
+            "Males_Obesity": 5.00,
+            "Females_Overweight": 17.50,
+            "Females_Obesity": 13.00,
+            "AllAdults_Overweight": 15.40,
+            "AllAdults_Obesity": 9.10
+        }
+    ],
+    "Myanmar": [
+        {
+            "Year": "2017-2018",
+            "Age": "15-49",
+            "Males_Overweight": 11.40,
+            "Males_Obesity": 2.00,
+            "Females_Overweight": 22.90,
+            "Females_Obesity": 7.30,
+            "AllAdults_Overweight": 17.20,
+            "AllAdults_Obesity": 4.70
+        }
+    ],
+    "Namibia": [
+        {
+            "Year": "2013",
+            "Age": "15-49",
+            "Males_Overweight": 8.10,
+            "Males_Obesity": 3.40,
+            "Females_Overweight": 18.30,
+            "Females_Obesity": 13.20,
+            "AllAdults_Overweight": 13.30,
+            "AllAdults_Obesity": 8.40
+        }
+    ],
+    "Nauru": [
+        {
+            "Year": "2023",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 16.10,
+            "Females_Obesity": 60.60,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2004",
+            "Age": "15-64",
+            "Males_Overweight": 26.50,
+            "Males_Obesity": 55.70,
+            "Females_Overweight": 21.80,
+            "Females_Obesity": 60.50,
+            "AllAdults_Overweight": 24.10,
+            "AllAdults_Obesity": 58.10
+        }
+    ],
+    "Nepal": [
+        {
+            "Year": "2022",
+            "Age": "20-49",
+            "Males_Overweight": 26.20,
+            "Males_Obesity": 5.90,
+            "Females_Overweight": 26.00,
+            "Females_Obesity": 8.40,
+            "AllAdults_Overweight": 26.10,
+            "AllAdults_Obesity": 7.20
+        }
+    ],
+    "Netherlands": [
+        {
+            "Year": "2024",
+            "Age": "20+",
+            "Males_Overweight": 39.70,
+            "Males_Obesity": 14.90,
+            "Females_Overweight": 30.70,
+            "Females_Obesity": 17.10,
+            "AllAdults_Overweight": 35.10,
+            "AllAdults_Obesity": 16.00
+        }
+    ],
+    "New Caledonia": [
+        {
+            "Year": "2021",
+            "Age": "18-64",
+            "Males_Overweight": 33.00,
+            "Males_Obesity": 34.00,
+            "Females_Overweight": 23.00,
+            "Females_Obesity": 42.00,
+            "AllAdults_Overweight": 28.10,
+            "AllAdults_Obesity": 38.40
+        }
+    ],
+    "New Zealand": [
+        {
+            "Year": "2024-2025",
+            "Age": "15+",
+            "Males_Overweight": 37.90,
+            "Males_Obesity": 32.50,
+            "Females_Overweight": 28.60,
+            "Females_Obesity": 35.80,
+            "AllAdults_Overweight": 33.20,
+            "AllAdults_Obesity": 34.20
+        }
+    ],
+    "Nicaragua": [
+        {
+            "Year": "2007-2009",
+            "Age": "20-60",
+            "Males_Overweight": 30.90,
+            "Males_Obesity": 11.90,
+            "Females_Overweight": 34.70,
+            "Females_Obesity": 29.80,
+            "AllAdults_Overweight": 33.10,
+            "AllAdults_Obesity": 22.00
+        }
+    ],
+    "Niger": [
+        {
+            "Year": "2021",
+            "Age": "18-69",
+            "Males_Overweight": 7.70,
+            "Males_Obesity": 3.90,
+            "Females_Overweight": 12.50,
+            "Females_Obesity": 6.30,
+            "AllAdults_Overweight": 9.80,
+            "AllAdults_Obesity": 4.90
+        }
+    ],
+    "Nigeria": [
+        {
+            "Year": "2023-2024",
+            "Age": "20-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 18.80,
+            "Females_Obesity": 11.20,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "1991-1994",
+            "Age": "20+",
+            "Males_Overweight": 6.50,
+            "Males_Obesity": 9.10,
+            "Females_Overweight": 7.80,
+            "Females_Obesity": null,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Niue": [
+        {
+            "Year": "2011-2012",
+            "Age": "15+",
+            "Males_Overweight": 25.80,
+            "Males_Obesity": 59.20,
+            "Females_Overweight": 24.10,
+            "Females_Obesity": 62.70,
+            "AllAdults_Overweight": 24.90,
+            "AllAdults_Obesity": 61.00
+        }
+    ],
+    "North Macedonia": [
+        {
+            "Year": "2017",
+            "Age": "18+",
+            "Males_Overweight": 53.30,
+            "Males_Obesity": 11.10,
+            "Females_Overweight": 37.20,
+            "Females_Obesity": 9.90,
+            "AllAdults_Overweight": 45.20,
+            "AllAdults_Obesity": 10.50
+        }
+    ],
+    "Northern Ireland": [
+        {
+            "Year": "2023-2024",
+            "Age": "16+",
+            "Males_Overweight": 40.00,
+            "Males_Obesity": 32.00,
+            "Females_Overweight": 34.00,
+            "Females_Obesity": 26.00,
+            "AllAdults_Overweight": 37.00,
+            "AllAdults_Obesity": 28.00
+        }
+    ],
+    "Northern Mariana Islands": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 31.00,
+            "Females_Obesity": 41.00,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Norway": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 42.00,
+            "Males_Obesity": 18.30,
+            "Females_Overweight": 30.90,
+            "Females_Obesity": 15.10,
+            "AllAdults_Overweight": 36.70,
+            "AllAdults_Obesity": 16.80
+        }
+    ],
+    "Oman": [
+        {
+            "Year": "2017",
+            "Age": "18+",
+            "Males_Overweight": 40.10,
+            "Males_Obesity": 23.20,
+            "Females_Overweight": 30.00,
+            "Females_Obesity": 39.30,
+            "AllAdults_Overweight": 35.50,
+            "AllAdults_Obesity": 30.70
+        }
+    ],
+    "Pakistan": [
+        {
+            "Year": "2018",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 24.20,
+            "Females_Obesity": 13.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2013-2014",
+            "Age": "18-69",
+            "Males_Overweight": 26.50,
+            "Males_Obesity": 12.10,
+            "Females_Overweight": 26.10,
+            "Females_Obesity": 17.10,
+            "AllAdults_Overweight": 26.40,
+            "AllAdults_Obesity": 14.90
+        }
+    ],
+    "Palau": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 33.20,
+            "Females_Obesity": 42.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "Palestine": [
+        {
+            "Year": "2022",
+            "Age": "18-69",
+            "Males_Overweight": 31.40,
+            "Males_Obesity": 24.70,
+            "Females_Overweight": 28.10,
+            "Females_Obesity": 38.80,
+            "AllAdults_Overweight": 29.80,
+            "AllAdults_Obesity": 31.60
+        }
+    ],
+    "Panama": [
+        {
+            "Year": "2019",
+            "Age": "18+",
+            "Males_Overweight": 39.60,
+            "Males_Obesity": 27.70,
+            "Females_Overweight": 33.30,
+            "Females_Obesity": 42.30,
+            "AllAdults_Overweight": 36.40,
+            "AllAdults_Obesity": 36.30
+        }
+    ],
+    "Papua New Guinea": [
+        {
+            "Year": "2007-2008",
+            "Age": "15-64",
+            "Males_Overweight": 25.20,
+            "Males_Obesity": 5.10,
+            "Females_Overweight": 25.20,
+            "Females_Obesity": 8.70,
+            "AllAdults_Overweight": 25.30,
+            "AllAdults_Obesity": 6.80
+        }
+    ],
+    "Paraguay": [
+        {
+            "Year": "2011",
+            "Age": "15-74",
+            "Males_Overweight": 35.30,
+            "Males_Obesity": 19.90,
+            "Females_Overweight": 34.40,
+            "Females_Obesity": 26.60,
+            "AllAdults_Overweight": 34.80,
+            "AllAdults_Obesity": 23.20
+        }
+    ],
+    "Peru": [
+        {
+            "Year": "2024",
+            "Age": "15+",
+            "Males_Overweight": 37.40,
+            "Males_Obesity": 21.10,
+            "Females_Overweight": 35.70,
+            "Females_Obesity": 29.90,
+            "AllAdults_Overweight": 36.50,
+            "AllAdults_Obesity": 25.70
+        }
+    ],
+    "Philippines": [
+        {
+            "Year": "2021-2022",
+            "Age": "20-59",
+            "Males_Overweight": 28.30,
+            "Males_Obesity": 7.30,
+            "Females_Overweight": 31.70,
+            "Females_Obesity": 12.20,
+            "AllAdults_Overweight": 30.20,
+            "AllAdults_Obesity": 10.00
+        }
+    ],
+    "Poland": [
+        {
+            "Year": "2025",
+            "Age": "20+",
+            "Males_Overweight": 48.80,
+            "Males_Obesity": 15.30,
+            "Females_Overweight": 35.70,
+            "Females_Obesity": 12.60,
+            "AllAdults_Overweight": 41.90,
+            "AllAdults_Obesity": 13.90
+        }
+    ],
+    "Portugal": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 42.90,
+            "Males_Obesity": 16.00,
+            "Females_Overweight": 32.30,
+            "Females_Obesity": 15.60,
+            "AllAdults_Overweight": 37.20,
+            "AllAdults_Obesity": 15.80
+        }
+    ],
+    "Puerto Rico": [
+        {
+            "Year": "2023",
+            "Age": "18+",
+            "Males_Overweight": 37.30,
+            "Males_Obesity": 34.20,
+            "Females_Overweight": 33.10,
+            "Females_Obesity": 37.60,
+            "AllAdults_Overweight": 35.10,
+            "AllAdults_Obesity": 36.00
+        }
+    ],
+    "Qatar": [
+        {
+            "Year": "2012",
+            "Age": "18-64",
+            "Males_Overweight": 32.30,
+            "Males_Obesity": 39.50,
+            "Females_Overweight": 25.10,
+            "Females_Obesity": 43.20,
+            "AllAdults_Overweight": 28.70,
+            "AllAdults_Obesity": 41.40
+        }
+    ],
+    "Reunion": [
+        {
+            "Year": "2019",
+            "Age": "15+",
+            "Males_Overweight": 30.00,
+            "Males_Obesity": 12.00,
+            "Females_Overweight": 27.00,
+            "Females_Obesity": 20.00,
+            "AllAdults_Overweight": 28.00,
+            "AllAdults_Obesity": 16.00
+        }
+    ],
+    "Romania": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 58.10,
+            "Males_Obesity": 10.40,
+            "Females_Overweight": 41.40,
+            "Females_Obesity": 10.20,
+            "AllAdults_Overweight": 49.40,
+            "AllAdults_Obesity": 10.30
+        }
+    ],
+    "Russian Federation": [
+        {
+            "Year": "2020-2022",
+            "Age": "35-74",
+            "Males_Overweight": 44.00,
+            "Males_Obesity": 30.00,
+            "Females_Overweight": 33.70,
+            "Females_Obesity": 39.50,
+            "AllAdults_Overweight": 38.40,
+            "AllAdults_Obesity": 35.20
+        }
+    ],
+    "Rwanda": [
+        {
+            "Year": "2021-2022",
+            "Age": "18-69",
+            "Males_Overweight": 10.20,
+            "Males_Obesity": 1.30,
+            "Females_Overweight": 18.60,
+            "Females_Obesity": 7.40,
+            "AllAdults_Overweight": 14.30,
+            "AllAdults_Obesity": 4.30
+        }
+    ],
+    "Saint Kitts and Nevis": [
+        {
+            "Year": "2007-2008",
+            "Age": "25-64",
+            "Males_Overweight": 36.20,
+            "Males_Obesity": 37.90,
+            "Females_Overweight": 30.50,
+            "Females_Obesity": 52.50,
+            "AllAdults_Overweight": 33.50,
+            "AllAdults_Obesity": 45.00
+        }
+    ],
+    "Saint Lucia": [
+        {
+            "Year": "2019-2020",
+            "Age": "18-69",
+            "Males_Overweight": 29.40,
+            "Males_Obesity": 20.60,
+            "Females_Overweight": 30.70,
+            "Females_Obesity": 46.10,
+            "AllAdults_Overweight": 30.10,
+            "AllAdults_Obesity": 34.90
+        }
+    ],
+    "Saint Vincent and the Grenadines": [
+        {
+            "Year": "2013-2014",
+            "Age": "18-69",
+            "Males_Overweight": 41.30,
+            "Males_Obesity": 13.20,
+            "Females_Overweight": 67.20,
+            "Females_Obesity": 40.80,
+            "AllAdults_Overweight": 54.20,
+            "AllAdults_Obesity": 26.90
+        }
+    ],
+    "Samoa": [
+        {
+            "Year": "2019-2020",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 18.50,
+            "Females_Obesity": 66.90,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2013",
+            "Age": "18-64",
+            "Males_Overweight": 35.00,
+            "Males_Obesity": 44.80,
+            "Females_Overweight": 21.80,
+            "Females_Obesity": 68.60,
+            "AllAdults_Overweight": 28.90,
+            "AllAdults_Obesity": 55.80
+        }
+    ],
+    "Sao Tome and Principe": [
+        {
+            "Year": "2008",
+            "Age": "25-64",
+            "Males_Overweight": 21.40,
+            "Males_Obesity": 6.60,
+            "Females_Overweight": 25.10,
+            "Females_Obesity": 16.50,
+            "AllAdults_Overweight": 23.30,
+            "AllAdults_Obesity": 11.70
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "Year": "2024",
+            "Age": "15+",
+            "Males_Overweight": 46.30,
+            "Males_Obesity": 22.80,
+            "Females_Overweight": 42.60,
+            "Females_Obesity": 23.50,
+            "AllAdults_Overweight": 45.10,
+            "AllAdults_Obesity": 23.10
+        }
+    ],
+    "Scotland": [
+        {
+            "Year": "2023",
+            "Age": "16+",
+            "Males_Overweight": 37.00,
+            "Males_Obesity": 30.00,
+            "Females_Overweight": 31.00,
+            "Females_Obesity": 34.00,
+            "AllAdults_Overweight": 34.00,
+            "AllAdults_Obesity": 32.00
+        }
+    ],
+    "Senegal": [
+        {
+            "Year": "2015",
+            "Age": "18-69",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 15.80,
+            "Females_Obesity": 6.40,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2010-2011",
+            "Age": "15-49",
+            "Males_Overweight": 6.10,
+            "Males_Obesity": 1.00,
+            "Females_Overweight": 15.50,
+            "Females_Obesity": 5.80,
+            "AllAdults_Overweight": 10.90,
+            "AllAdults_Obesity": 3.50
+        }
+    ],
+    "Serbia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 50.70,
+            "Males_Obesity": 13.90,
+            "Females_Overweight": 31.60,
+            "Females_Obesity": 9.50,
+            "AllAdults_Overweight": 40.90,
+            "AllAdults_Obesity": 11.70
+        }
+    ],
+    "Seychelles": [
+        {
+            "Year": "2023",
+            "Age": "18-74",
+            "Males_Overweight": 32.60,
+            "Males_Obesity": 27.20,
+            "Females_Overweight": 28.90,
+            "Females_Obesity": 48.60,
+            "AllAdults_Overweight": 31.00,
+            "AllAdults_Obesity": 38.00
+        }
+    ],
+    "Sierra Leone": [
+        {
+            "Year": "2021",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 27.80,
+            "Females_Obesity": 13.10,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        },
+        {
+            "Year": "2013",
+            "Age": "15-49",
+            "Males_Overweight": 6.70,
+            "Males_Obesity": 1.50,
+            "Females_Overweight": 13.40,
+            "Females_Obesity": 5.00,
+            "AllAdults_Overweight": 10.10,
+            "AllAdults_Obesity": 3.30
+        }
+    ],
+    "Singapore": [
+        {
+            "Year": "2023-2024",
+            "Age": "18-74",
+            "Males_Overweight": 33.90,
+            "Males_Obesity": 13.10,
+            "Females_Overweight": 21.10,
+            "Females_Obesity": 12.30,
+            "AllAdults_Overweight": 27.40,
+            "AllAdults_Obesity": 12.70
+        }
+    ],
+    "Slovakia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 51.30,
+            "Males_Obesity": 19.40,
+            "Females_Overweight": 32.00,
+            "Females_Obesity": 15.00,
+            "AllAdults_Overweight": 41.30,
+            "AllAdults_Obesity": 17.10
+        }
+    ],
+    "Slovenia": [
+        {
+            "Year": "2022",
+            "Age": "18+",
+            "Males_Overweight": 43.80,
+            "Males_Obesity": 21.90,
+            "Females_Overweight": 32.50,
+            "Females_Obesity": 14.20,
+            "AllAdults_Overweight": 37.80,
+            "AllAdults_Obesity": 17.90
+        }
+    ],
+    "Solomon Islands": [
+        {
+            "Year": "2015",
+            "Age": "15-49",
+            "Males_Overweight": 25.50,
+            "Males_Obesity": 8.80,
+            "Females_Overweight": 29.50,
+            "Females_Obesity": 17.90,
+            "AllAdults_Overweight": 27.50,
+            "AllAdults_Obesity": 13.10
+        }
+    ],
+    "Somalia": [
+        {
+            "Year": "2019",
+            "Age": "15-49",
+            "Males_Overweight": null,
+            "Males_Obesity": null,
+            "Females_Overweight": 24.40,
+            "Females_Obesity": 15.10,
+            "AllAdults_Overweight": null,
+            "AllAdults_Obesity": null
+        }
+    ],
+    "South Africa": [
+        {
+            "Year": "2021-2022",
+            "Age": "18+",
+            "Males_Overweight": 22.90,
+            "Males_Obesity": 15.30,
+            "Females_Overweight": 26.60,
+            "Females_Obesity": 41.30,
+            "AllAdults_Overweight": 25.30,
+            "AllAdults_Obesity": 32.10
+        }
+    ],
+    "South Korea": [
+        {
+            "Year": "2022",
+            "Age": "20+",
+            "Males_Overweight": 40.50,
+            "Males_Obesity": 8.63,
+            "Females_Overweight": 23.50,
+            "Females_Obesity": 5.71,
+            "AllAdults_Overweight": 32.30,
+            "AllAdults_Obesity": 7.28
+        }
+    ],
+    "Spain": [
+        {
+            "Year": "2023-2024",
+            "Age": "18+",
+            "Males_Overweight": 47.00,
+            "Males_Obesity": 15.20,
+            "Females_Overweight": 32.90,
+            "Females_Obesity": 15.10,
+            "AllAdults_Overweight": 39.80,
+            "AllAdults_Obesity": 15.20
+        }
+    ],
+  "Sri Lanka": [
+    {
+      "Year": "2022",
+      "Age": "18-60",
+      "Males_Overweight": 25.60,
+      "Males_Obesity": 6.40,
+      "Females_Overweight": 29.60,
+      "Females_Obesity": 12.60,
+      "AllAdults_Overweight": 27.70,
+      "AllAdults_Obesity": 9.60
+    }
+  ],
+  "Sudan": [
+    {
+      "Year": "2016",
+      "Age": "18-69",
+      "Males_Overweight": 15.90,
+      "Males_Obesity": 6.70,
+      "Females_Overweight": 20.70,
+      "Females_Obesity": 14.90,
+      "AllAdults_Overweight": 17.90,
+      "AllAdults_Obesity": 10.30
+    }
+  ],
+  "Suriname": [
+    {
+      "Year": "2016-2017",
+      "Age": "20+",
+      "Males_Overweight": 38.50,
+      "Males_Obesity": 17.00,
+      "Females_Overweight": 33.30,
+      "Females_Obesity": 27.00,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    }
+  ],
+  "Sweden": [
+    {
+      "Year": "2024",
+      "Age": "16-84",
+      "Males_Overweight": 40.60,
+      "Males_Obesity": 18.00,
+      "Females_Overweight": 29.90,
+      "Females_Obesity": 18.40,
+      "AllAdults_Overweight": 35.30,
+      "AllAdults_Obesity": 18.20
+    }
+  ],
+  "Switzerland": [
+    {
+      "Year": "2022",
+      "Age": "16+",
+      "Males_Overweight": 39.80,
+      "Males_Obesity": 14.70,
+      "Females_Overweight": 24.00,
+      "Females_Obesity": 12.10,
+      "AllAdults_Overweight": 31.80,
+      "AllAdults_Obesity": 13.40
+    }
+  ],
+  "Syrian Arab Republic": [
+    {
+      "Year": "2003",
+      "Age": "20-65",
+      "Males_Overweight": 37.30,
+      "Males_Obesity": 15.50,
+      "Females_Overweight": 31.10,
+      "Females_Obesity": 22.50,
+      "AllAdults_Overweight": 34.20,
+      "AllAdults_Obesity": 18.90
+    }
+  ],
+  "Taiwan": [
+    {
+      "Year": "2013-2014",
+      "Age": "19+",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": null,
+      "Females_Obesity": null,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": 8.20
+    },
+    {
+      "Year": "2003-2006",
+      "Age": "19+",
+      "Males_Overweight": 6.10,
+      "Males_Obesity": 6.40,
+      "Females_Overweight": 6.20,
+      "Females_Obesity": null,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    }
+  ],
+  "Tajikistan": [
+    {
+      "Year": "2023",
+      "Age": "20-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 30.70,
+      "Females_Obesity": 18.70,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    },
+    {
+      "Year": "2016-2017",
+      "Age": "18-69",
+      "Males_Overweight": 37.80,
+      "Males_Obesity": 11.90,
+      "Females_Overweight": 27.80,
+      "Females_Obesity": 15.40,
+      "AllAdults_Overweight": 33.20,
+      "AllAdults_Obesity": 13.50
+    }
+  ],
+  "Tanzania": [
+    {
+      "Year": "2022",
+      "Age": "20-49",
+      "Males_Overweight": 13.30,
+      "Males_Obesity": 3.40,
+      "Females_Overweight": 21.80,
+      "Females_Obesity": 14.00,
+      "AllAdults_Overweight": 17.60,
+      "AllAdults_Obesity": 8.70
+    }
+  ],
+  "Thailand": [
+    {
+      "Year": "2019-2020",
+      "Age": "15+",
+      "Males_Overweight": 27.80,
+      "Males_Obesity": 10.00,
+      "Females_Overweight": 30.00,
+      "Females_Obesity": 16.40,
+      "AllAdults_Overweight": 28.90,
+      "AllAdults_Obesity": 13.30
+    }
+  ],
+  "Timor-Leste": [
+    {
+      "Year": "2016",
+      "Age": "15-49",
+      "Males_Overweight": 8.30,
+      "Males_Obesity": 1.50,
+      "Females_Overweight": 5.30,
+      "Females_Obesity": 0.70,
+      "AllAdults_Overweight": 6.80,
+      "AllAdults_Obesity": 1.10
+    }
+  ],
+  "Togo": [
+    {
+      "Year": "2013-2014",
+      "Age": "15-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 19.40,
+      "Females_Obesity": 11.10,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    },
+    {
+      "Year": "2010",
+      "Age": "15-64",
+      "Males_Overweight": 12.00,
+      "Males_Obesity": 2.30,
+      "Females_Overweight": 18.60,
+      "Females_Obesity": 9.60,
+      "AllAdults_Overweight": 15.30,
+      "AllAdults_Obesity": 6.20
+    }
+  ],
+  "Tokelau": [
+    {
+      "Year": "2005",
+      "Age": "15-64",
+      "Males_Overweight": 24.30,
+      "Males_Obesity": 58.60,
+      "Females_Overweight": 21.50,
+      "Females_Obesity": 67.80,
+      "AllAdults_Overweight": 22.80,
+      "AllAdults_Obesity": 63.40
+    }
+  ],
+  "Tonga": [
+    {
+      "Year": "2017",
+      "Age": "18-69",
+      "Males_Overweight": 22.80,
+      "Males_Obesity": 66.80,
+      "Females_Overweight": 12.30,
+      "Females_Obesity": 82.80,
+      "AllAdults_Overweight": 16.10,
+      "AllAdults_Obesity": 77.10
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "Year": "2024",
+      "Age": "18-69",
+      "Males_Overweight": 29.30,
+      "Males_Obesity": 24.90,
+      "Females_Overweight": 28.40,
+      "Females_Obesity": 39.30,
+      "AllAdults_Overweight": 28.90,
+      "AllAdults_Obesity": 31.60
+    }
+  ],
+  "Tunisia": [
+    {
+      "Year": "1997",
+      "Age": "20-60",
+      "Males_Overweight": 23.30,
+      "Males_Obesity": 6.70,
+      "Females_Overweight": 28.20,
+      "Females_Obesity": 22.70,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    }
+  ],
+  "Turkey": [
+    {
+      "Year": "2023",
+      "Age": "15+",
+      "Males_Overweight": 41.30,
+      "Males_Obesity": 20.00,
+      "Females_Overweight": 29.70,
+      "Females_Obesity": 30.80,
+      "AllAdults_Overweight": 35.50,
+      "AllAdults_Obesity": 25.40
+    }
+  ],
+  "Turkmenistan": [
+    {
+      "Year": "2018",
+      "Age": "18-69",
+      "Males_Overweight": 38.40,
+      "Males_Obesity": 12.70,
+      "Females_Overweight": 27.90,
+      "Females_Obesity": 17.50,
+      "AllAdults_Overweight": 33.40,
+      "AllAdults_Obesity": 15.00
+    }
+  ],
+  "Tuvalu": [
+    {
+      "Year": "2015",
+      "Age": "18-69",
+      "Males_Overweight": 27.00,
+      "Males_Obesity": 70.70,
+      "Females_Overweight": 18.50,
+      "Females_Obesity": 55.20,
+      "AllAdults_Overweight": 23.20,
+      "AllAdults_Obesity": 62.20
+    }
+  ],
+  "Uganda": [
+    {
+      "Year": "2023",
+      "Age": "18-69",
+      "Males_Overweight": 10.70,
+      "Males_Obesity": 6.20,
+      "Females_Overweight": 18.40,
+      "Females_Obesity": 12.30,
+      "AllAdults_Overweight": 14.60,
+      "AllAdults_Obesity": 9.30
+    }
+  ],
+  "Ukraine": [
+    {
+      "Year": "2019",
+      "Age": "18-69",
+      "Males_Overweight": 37.80,
+      "Males_Obesity": 20.10,
+      "Females_Overweight": 30.40,
+      "Females_Obesity": 29.80,
+      "AllAdults_Overweight": 34.30,
+      "AllAdults_Obesity": 24.80
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "Year": "2017-2018",
+      "Age": "18-69",
+      "Males_Overweight": 45.70,
+      "Males_Obesity": 25.10,
+      "Females_Overweight": 34.30,
+      "Females_Obesity": 30.60,
+      "AllAdults_Overweight": 40.10,
+      "AllAdults_Obesity": 27.80
+    }
+  ],
+  "United Kingdom": [
+    {
+      "Year": "2014",
+      "Age": "18+",
+      "Males_Overweight": 40.50,
+      "Males_Obesity": 19.80,
+      "Females_Overweight": 31.40,
+      "Females_Obesity": 20.40,
+      "AllAdults_Overweight": 35.60,
+      "AllAdults_Obesity": 20.10
+    }
+  ],
+  "United States": [
+    {
+      "Year": "2021-2023",
+      "Age": "20+",
+      "Males_Overweight": 36.20,
+      "Males_Obesity": 38.40,
+      "Females_Overweight": 28.60,
+      "Females_Obesity": 41.30,
+      "AllAdults_Overweight": 32.10,
+      "AllAdults_Obesity": 40.30
+    }
+  ],
+  "Uruguay": [
+    {
+      "Year": "2013-2014",
+      "Age": "15-64",
+      "Males_Overweight": 38.60,
+      "Males_Obesity": 22.10,
+      "Females_Overweight": 31.30,
+      "Females_Obesity": 25.10,
+      "AllAdults_Overweight": 34.80,
+      "AllAdults_Obesity": 23.70
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "Year": "2017",
+      "Age": "15-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 25.20,
+      "Females_Obesity": 15.50,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    },
+    {
+      "Year": "2014",
+      "Age": "18-64",
+      "Males_Overweight": 32.00,
+      "Males_Obesity": 15.70,
+      "Females_Overweight": 27.30,
+      "Females_Obesity": 25.40,
+      "AllAdults_Overweight": 29.90,
+      "AllAdults_Obesity": 20.20
+    }
+  ],
+  "Vanuatu": [
+    {
+      "Year": "2023",
+      "Age": "15-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 30.60,
+      "Females_Obesity": 23.50,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    },
+    {
+      "Year": "2013",
+      "Age": "15-49",
+      "Males_Overweight": 24.80,
+      "Males_Obesity": 11.10,
+      "Females_Overweight": 30.80,
+      "Females_Obesity": 18.80,
+      "AllAdults_Overweight": 27.80,
+      "AllAdults_Obesity": 14.90
+    }
+  ],
+  "Venezuela": [
+    {
+      "Year": "2014-2017",
+      "Age": "20+",
+      "Males_Overweight": 38.20,
+      "Males_Obesity": 22.20,
+      "Females_Overweight": 31.20,
+      "Females_Obesity": 26.70,
+      "AllAdults_Overweight": 34.50,
+      "AllAdults_Obesity": 24.60
+    }
+  ],
+  "Vietnam": [
+    {
+      "Year": "2021",
+      "Age": "18-69",
+      "Males_Overweight": 17.20,
+      "Males_Obesity": 2.10,
+      "Females_Overweight": 17.50,
+      "Females_Obesity": 2.20,
+      "AllAdults_Overweight": 17.40,
+      "AllAdults_Obesity": 2.10
+    }
+  ],
+  "Wales": [
+    {
+      "Year": "2022-2023",
+      "Age": "16+",
+      "Males_Overweight": 40.20,
+      "Males_Obesity": 25.00,
+      "Females_Overweight": 30.10,
+      "Females_Obesity": 27.20,
+      "AllAdults_Overweight": 35.20,
+      "AllAdults_Obesity": 26.00
+    }
+  ],
+  "Wallis and Futuna": [
+    {
+      "Year": "2019",
+      "Age": "18-69",
+      "Males_Overweight": 23.80,
+      "Males_Obesity": 66.70,
+      "Females_Overweight": 16.60,
+      "Females_Obesity": 73.70,
+      "AllAdults_Overweight": 20.00,
+      "AllAdults_Obesity": 70.40
+    }
+  ],
+  "Yemen": [
+    {
+      "Year": "2013",
+      "Age": "15-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 15.70,
+      "Females_Obesity": 8.00,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    }
+  ],
+  "Zambia": [
+    {
+      "Year": "2017",
+      "Age": "18-69",
+      "Males_Overweight": 13.20,
+      "Males_Obesity": 3.00,
+      "Females_Overweight": 20.20,
+      "Females_Obesity": 12.30,
+      "AllAdults_Overweight": 16.70,
+      "AllAdults_Obesity": 7.50
+    },
+    {
+      "Year": "2024",
+      "Age": "20-49",
+      "Males_Overweight": null,
+      "Males_Obesity": null,
+      "Females_Overweight": 22.40,
+      "Females_Obesity": 10.70,
+      "AllAdults_Overweight": null,
+      "AllAdults_Obesity": null
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "Year": "2015",
+      "Age": "15-49",
+      "Males_Overweight": 9.70,
+      "Males_Obesity": 2.30,
+      "Females_Overweight": 22.30,
+      "Females_Obesity": 12.60,
+      "AllAdults_Overweight": 16.30,
+      "AllAdults_Obesity": 7.70
+    }
+  ]
+}
