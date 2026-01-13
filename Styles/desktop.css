@@ -9,6 +9,8 @@ body{
     background-color: #F3EBE3;
 }
 
+/* Style du header */
+
 header{
     margin: 25px;
     background-image: linear-gradient(#C9D7E0, #E5EBEF);
@@ -40,4 +42,8 @@ svg{
 }
 
 
+/* Zone de la carte du monde */
 
+.card{
+    background-color: #F1EEE8;
+}
