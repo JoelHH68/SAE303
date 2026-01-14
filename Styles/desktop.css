@@ -47,3 +47,10 @@ svg{
 .card{
     background-color: #F1EEE8;
 }
+
+/* Couleur de base pour les pays sans données */
+path {
+    fill: #e0e0e0;
+    stroke: #ffffff;
+    stroke-width: 0.5;
+}
