@@ -20,7 +20,6 @@ const Carte = async () => {
 
             const selector = `path[name="${nomPays}"], path[id="${nomPays}"], path[class="${nomPays}"]`;
             const targets = document.querySelectorAll(selector);
-            if (targets.length === 0) console.warn("Pas trouvé dans le SVG :", nomPays);
 
             targets.forEach(path => {
                 path.style.fill = CouleurPays(rate);

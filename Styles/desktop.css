@@ -51,6 +51,7 @@ path {
     stroke-width: 0.5;
 }
 
+
 .card, .card2, .card_stat{
     background-color: #F1EEE8;
     padding: 12px;
@@ -60,8 +61,13 @@ path {
     font-size: 14px;
 }
 
+
 h1{
     font-size: 24px;
+}
+
+.bloc_map{
+    display: flex;
 }
 
 span{
@@ -69,11 +75,15 @@ span{
 }
 
 .card2{
-    max-width: 300px;
     display: flex;
     flex-direction: column;
     gap: 12px;
 }
+
+p{
+    margin: 1px;
+}
+
 
 .card_stat{
     max-width: 170px;
@@ -85,3 +95,12 @@ span{
     font-weight: 900;
     color: #6FA3B5;
 }
+
+
+
+.map_info>svg{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
