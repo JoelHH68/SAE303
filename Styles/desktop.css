@@ -51,8 +51,12 @@ path {
     stroke-width: 0.5;
 }
 
+.card{
+    margin: 25px;
+}
 
-.card, .card2, .card_stat{
+
+.card, .card2, .card_stat1, .card_stat2{
     background-color: #F1EEE8;
     padding: 12px;
     width: fit-content;
@@ -68,6 +72,8 @@ h1{
 
 .bloc_map{
     display: flex;
+    margin: 25px;
+    position: relative;
 }
 
 span{
@@ -85,9 +91,21 @@ p{
 }
 
 
-.card_stat{
+.card_stat1, .card_stat2{
     max-width: 170px;
     text-align: center;
+}
+
+.card_stat1{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+}
+
+.card_stat2{
+    position: absolute;
+    left: 60%;
+    top: 75%;
 }
 
 .stat{
