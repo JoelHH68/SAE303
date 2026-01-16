@@ -72,7 +72,7 @@ function creationBouteille(year, value) {
     bottle.className = "bloc_bouteille";
 
     bottle.innerHTML = `
-        <div class="percentage-label">${value}%</div>
+        <div class="pourcentage-label">${value}%</div>
         <div class="container_bouteille">
             <div class="liquide"></div>
         </div>
