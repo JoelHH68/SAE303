@@ -122,3 +122,66 @@ p{
     display: block;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+            --liquid-color: #3498db;
+            --glass-bg: #f1f5f9;
+        }
+
+        body { font-family: sans-serif; background: #e2e8f0; display: flex; justify-content: center; padding: 50px; }
+        
+        .chart-container { 
+            display: flex; 
+            gap: 20px; 
+            background: white; 
+            padding: 40px; 
+            border-radius: 20px; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .bottle-unit { display: flex; flex-direction: column; align-items: center; }
+
+        .percentage-label { font-weight: bold; font-size: 1.2rem; margin-bottom: 10px; color: #333; }
+
+        .bottle-svg { width: 80px; height: auto; overflow: visible; }
+
+        /* Transition CRUCIALE pour voir le mouvement */
+        .liquid-fill {
+            transition: all 1.5s ease-out;
+        }
+
+        .year-label { margin-top: 15px; font-weight: bold; color: #666; }
+
+        .liquid-fill {
+    fill: #3498db !important; 
+    transition: all 1.5s ease-out;
+}
+
+/* On s'assure que le fond de la bouteille n'écrase pas tout */
+.bottle-svg path[fill="var(--glass-bg)"] {
+    fill: #f1f5f9 !important;
+}
+
+/* On s'assure que le contour reste transparent à l'intérieur */
+.bottle-svg path[fill="none"] {
+    fill: none !important;
+}
+
+/* Ajustement pour que tes bouteilles ne fassent pas 600px comme la carte */
+.bottle-unit .bottle-svg {
+    height: 250px; 
+    width: auto;
+}
