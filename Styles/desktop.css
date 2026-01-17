@@ -206,11 +206,7 @@ BURGERS
     display: block;
 }
 
-.steaks-container {
-    display: flex;
-    flex-direction: column-reverse; 
-    width: 180px;
-}
+
 
 .steak {
     width: 100%;
@@ -224,6 +220,6 @@ BURGERS
     width: 160px;
     height: auto;
     display: block;
-    margin-top: -35px;
-    margin-bottom: 4px; /* espace avec les steaks */
+    margin-top: -40px;
+    margin-bottom: 4px; 
 }

@@ -108,14 +108,44 @@ chargerData();
 
 
 // BURGER
+
+let donneesBurger = {};
+
+async function chargerDonneesBurger() {
+    const response = await fetch("../Data/donnees.json");
+    donneesBurger = await response.json();
+
+    initialiserPaysBurger();
+}
+
+function initialiserPaysBurger() {
+    const select = document.getElementById("choixPaysBurger");
+
+    const pays = Object.keys(donneesBurger).sort();
+
+    pays.forEach(nomPays => {
+        select.add(new Option(nomPays, nomPays));
+    });
+
+    select.addEventListener("change", () => {
+        majBurger(select.value);
+    });
+
+    // premier affichage
+    majBurger(pays[0]);
+}
+
 function calculerNbSteaks(pourcentage) {
-    if (pourcentage < 10) return 1;
-    if (pourcentage < 25) return 2;
-    return 3;
+    if (pourcentage < 5) return 1;
+    if (pourcentage < 10) return 2;
+    if (pourcentage < 15) return 3;
+    if (pourcentage < 20) return 4;
+    if (pourcentage < 25) return 5;
+    return 6;
 }
 
 function afficherBurgerHommes(pourcentageHommes) {
-    const container = document.querySelector(".steaks-container");
+    const container = document.querySelector(".steaks-container-h");
     container.innerHTML = "";
 
     const nbSteaks = calculerNbSteaks(pourcentageHommes);
@@ -127,5 +157,32 @@ function afficherBurgerHommes(pourcentageHommes) {
     }
 }
 
-// Exemple
-afficherBurgerHommes(10);
+
+function afficherBurgerFemmes(pourcentageFemmes) {
+    const container = document.querySelector(".steaks-container-f");
+    container.innerHTML = "";
+
+    const nbSteaks = calculerNbSteaks(pourcentageFemmes);
+
+    for (let i = 0; i < nbSteaks; i++) {
+        const steak = document.createElement("div");
+        steak.className = "steak";
+        container.appendChild(steak);
+    }
+}
+
+
+function majBurger(pays) {
+    const dataPays = donneesBurger[pays];
+    if (!dataPays || dataPays.length === 0) return;
+
+    const d = dataPays[dataPays.length - 1];
+
+    const pourcentageHommes = Number(d.Males_Obesity ?? 0);
+    const pourcentageFemmes = Number(d.Females_Obesity ?? 0);
+
+    afficherBurgerHommes(pourcentageHommes);
+    afficherBurgerFemmes(pourcentageFemmes);
+}
+
+chargerDonneesBurger();
