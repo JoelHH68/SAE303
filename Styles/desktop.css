@@ -193,11 +193,27 @@ BURGERS
 ***********/
 
 .burger {
-    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 40px;
+    margin: 25px;
+    background-color: #F1EEE8;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px;
+}
+
+.centre-burger{
+    display: flex;
+}
+
+.compar{
+    max-width: 400px;
+    margin: 0 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2px;
 }
 
 .burger svg {
@@ -205,8 +221,6 @@ BURGERS
     height: auto;
     display: block;
 }
-
-
 
 .steak {
     width: 100%;
@@ -218,8 +232,10 @@ BURGERS
 
 .salade {
     width: 160px;
-    height: auto;
-    display: block;
-    margin-top: -40px;
-    margin-bottom: 4px; 
+    margin-top: -55px;
+    margin-bottom: 4px;
+}
+
+.silhouette{
+    width: 120px;   /* taille désirée */
 }
