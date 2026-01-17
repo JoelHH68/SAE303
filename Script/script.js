@@ -104,3 +104,28 @@ function majBouteille(pays) {
 }
 
 chargerData();
+
+
+
+// BURGER
+function calculerNbSteaks(pourcentage) {
+    if (pourcentage < 10) return 1;
+    if (pourcentage < 25) return 2;
+    return 3;
+}
+
+function afficherBurgerHommes(pourcentageHommes) {
+    const container = document.querySelector(".steaks-container");
+    container.innerHTML = "";
+
+    const nbSteaks = calculerNbSteaks(pourcentageHommes);
+
+    for (let i = 0; i < nbSteaks; i++) {
+        const steak = document.createElement("div");
+        steak.className = "steak";
+        container.appendChild(steak);
+    }
+}
+
+// Exemple
+afficherBurgerHommes(10);
