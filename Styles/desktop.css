@@ -239,3 +239,31 @@ BURGERS
 .silhouette{
     width: 120px;   /* taille désirée */
 }
+
+
+
+
+/* BALANCE */
+
+.balance {
+    width: 200px;
+    margin: 30px auto;
+}
+
+.balance svg {
+    width: 100%;
+    height: auto;
+}
+
+.plateau {
+    transition: transform 0.5s ease;
+}
+
+/* points de rotation */
+.gauche {
+    transform-origin: 65px 110px;
+}
+
+.droite {
+    transform-origin: 285px 110px;
+}
