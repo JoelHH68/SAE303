@@ -2,12 +2,14 @@
     --font-principale: "Montserrat", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 body {
     margin: 0;
     font-family: var(--font-principale);
     background-color: #F5F7FA;
-    scroll-behavior: smooth;
 }
 
 /* Style du header */
@@ -34,6 +36,11 @@ header>div>img {
     text-decoration: none;
     color: #1F3A5F;
     font-weight: 700;
+}
+
+.menu>a:hover{
+    color: #2F6FED;
+    transition: 0.4s;
 }
 
 .titre {
@@ -341,6 +348,34 @@ select{
 
 
 
+/* FOOTER  */
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color:#1F3A5F;
+    color: #fff;
+    text-decoration: none;
+    padding: 32px;
+}
+
+.menu-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+footer div a{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+footer div a:hover{
+    color: #7A8CA3;
+    transition: 0.2s;
+}
 
 
 
