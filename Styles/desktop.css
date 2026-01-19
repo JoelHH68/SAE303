@@ -6,24 +6,33 @@
 body {
     margin: 0;
     font-family: var(--font-principale);
-    background-color: #EFE8E3;
+    background-color: #F5F7FA;
 }
 
 /* Style du header */
 
 header {
-    margin: 25px;
-    background-image: linear-gradient(#C9D7E0, #E5EBEF);
+    background-color: #fff;
     display: flex;
     align-items: center;
-    border-radius: 20px;
-    box-shadow: 5px 5px 10px;
-    padding: 16px;
+    padding: 25px;
     justify-content: space-between;
+    color: #1F3A5F;
 }
 
-header>img {
+header>div{
+    display : flex;
+    gap: 14px;
+}
+
+header>div>img {
     width: 30px;
+}
+
+.menu>a{
+    text-decoration: none;
+    color: #1F3A5F;
+    font-weight: 700;
 }
 
 .titre {
@@ -31,26 +40,73 @@ header>img {
     font-size: 24px;
 }
 
-.espace {
-    width: 30px;
-}
-
-
-svg {
-    height: 600px;
-    width: auto;
+.weight{
+    color: #58bb0c;
+    font-weight: 900;
 }
 
 
 /* Zone de la carte du monde */
 
-/* Couleur de base pour les pays sans données */
+.container-carte {
+    width: 100%;
+    max-width: 1200px;
+    background-color: #E6EEF7;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.container-carte svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px;
+}
+
+.echelle{
+    display: flex;
+    gap : 15px;
+    background-color: rgba(47, 111, 237, 0.08); /* bleu très léger */
+    padding: 12px 16px;
+    border-radius: 12px;
+}
+
+.couleur{
+    padding: 12px;
+    width: fit-content;
+}
+
+.c1{
+    background-color: #FED976;
+}
+
+.c2{
+    background-color: #FD8D3C;
+}
+
+.c3{
+    background-color: #BD0026;
+}
+
+.c4{
+    background-color: #800026;
+}
+
+
+
+
+
+
 .map_info>svg>path {
     fill: #e0e0e0;
     stroke: #ffffff;
     stroke-width: 0.5;
 }
-
+/* 
 .card {
     margin: 25px;
 }
@@ -125,7 +181,7 @@ p {
     width: 100%;
     height: auto;
     display: block;
-}
+} */
 
 
 
