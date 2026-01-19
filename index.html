@@ -24,9 +24,9 @@
             <div class="titre">WorldWide<span class="weight">Weight</span></div>
         </div>
         <div class="menu">
-            <a href="">Carte du monde</a>
-            <a href="">Hommes/Femmes</a>
-            <a href="">Enfants</a>
+            <a href="#carte">Carte du monde</a>
+            <a href="#burger">Hommes/Femmes</a>
+            <a href="#bouteille">Enfants</a>
         </div>
     </header>
 
@@ -36,7 +36,7 @@
 
         <!-- CARTE DU MONDE  -->
 
-        <div class="container-carte">
+        <div class="container-carte" id="carte">
             <svg xmlns="http://www.w3.org/2000/svg" baseprofile="tiny" fill="#ececec" height="857" stroke="#F3EBE3"
                 stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" version="1.2" viewbox="0 0 2000 857"
                 width="2000">
@@ -1551,7 +1551,6 @@
                 <div class="couleur c4"><span>&gt; 30%</span></div>
             </div>
         </div>
-        </div>
 
 
         <!-- TITRE  -->
@@ -1580,24 +1579,28 @@
 
         <!-- BURGER + BLOC D'INFOS -->
 
-        <div class="container-burger-info">
+        <div class="container-burger-info" id="burger">
+
+            <!-- BLOC D'INFO  -->
+
             <div class="bloc_info">
-                <h2>À partir de quand est-on considéré comme obèse ?</h2>
-                <p>L’obésité est définie à partir de l’IMC (Indice de Masse Corporelle).</p>
-
-
                 <div>
-                    <p>Il se calcule ainsi :</p>
-                    <p>IMC = poids (kg) ÷ taille² (m)</p>
+                    <h2>À partir de quand est-on considéré comme obèse ?</h2>
+                    <p>L’obésité est définie à partir de l’<span>IMC</span> (Indice de Masse Corporelle).</p>
                 </div>
 
                 <div>
-                    <p>Site pour calculer son IMC :</p>
+                    <p>Il se calcule ainsi :</p>
+                    <p><span>IMC = poids (kg) ÷ taille² (m)</span></p>
+                </div>
+
+                <div>
+                    <p><span>Site pour calculer son IMC :</span></p>
                     <a href="https://compocorp.com/">https://compocorp.com/</a>
                 </div>
 
                 <div>
-                    <p>Seuils internationaux pour les adultes :</p>
+                    <p><span>Seuils internationaux pour les adultes :</span></p>
                     <ul>
                         <li>IMC < 18,5 : insuffisance pondérale</li>
                         <li>18,5 – 24,9 : poids normal</li>
@@ -1607,7 +1610,7 @@
                 </div>
 
                 <div>
-                    <p>Détails des classes d’obésité :</p>
+                    <p><span>Détails des classes d’obésité :</span></p>
                     <ul>
                         <li>30 – 34,9 : obésité modérée (classe I)</li>
                         <li>35 – 39,9 : obésité sévère (classe II)</li>
@@ -1623,9 +1626,22 @@
 
             </div>
 
+
+            <!-- BURGERS  -->
+
             <div class="container-burger">
                 <div class="compar">
                     <h2>Comparaison entre le taux d'obésité entre les hommes et les femmes d'un même pays</h2>
+                    <p>Pour ce graphique, le nombre de steak correspond au pourcentage de personne homme de chaque sexe dans un même pays.</p>
+                    <ul>
+                        <li>1 steak : &lt; 5%</li>
+                        <li>2 steaks : 5-10%</li>
+                        <li>3 steaks : 10-15%</li>
+                        <li>4 steaks : 15-20%</li>
+                        <li>5 steaks : 20-25%</li>
+                        <li>6 steaks : 25-30%</li>
+                        <li>7 steaks : &gt; 30%</li>
+                    </ul>
                     <select id="choixPaysBurger"></select>
                 </div>
 
@@ -1754,20 +1770,19 @@
 
 
 
+        <!-- BOUTEILLES -->
 
+        <div class="graph_evo" id="bouteille">
 
-
-
-
-
-        <div class="graph_evo">
-            <div id="chart" class="chart-container"></div>
             <div class="card_evo">
                 <h2>Evolution du taux d'obésité des enfants par pays</h2>
-                <label for="choixPays">Choisir un pays : </label>
                 <select id="choixPays"></select>
+                <p>Ce graphique présente l'évolution du pourcentage d'enfant entre 5 et 19 ans en situation d'obésite dans chaque pays, et sur 30 ans.</p>
             </div>
 
+            <div id="chart" class="chart-container"></div>
+
+            
         </div>
 
         

@@ -141,7 +141,8 @@ function calculerNbSteaks(pourcentage) {
     if (pourcentage < 15) return 3;
     if (pourcentage < 20) return 4;
     if (pourcentage < 25) return 5;
-    return 6;
+    if (pourcentage < 30) return 6;
+    return 7;
 }
 
 function afficherBurgerHommes(pourcentageHommes) {
