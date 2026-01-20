@@ -156,6 +156,22 @@ h1 {
 }
 
 
+/* Citation */
+
+blockquote {
+  font-style: italic;
+  text-align: center;
+  max-width: 700px;
+  opacity: 0.85;
+  font-size: 28px;
+}
+
+blockquote cite {
+  display: block;
+  font-style: normal;
+  font-size: 16px;  
+}
+
 /* Burger + Bloc d'information */
 
 .container-burger-info{
@@ -351,12 +367,15 @@ select{
 /* FOOTER  */
 
 footer{
-    display: flex;
-    justify-content: space-around;
     background-color:#1F3A5F;
     color: #fff;
     text-decoration: none;
     padding: 32px;
+}
+
+.haut-footer{
+    display: flex;
+    justify-content: space-around;
 }
 
 .menu-footer{
@@ -375,6 +394,12 @@ footer div a{
 footer div a:hover{
     color: #7A8CA3;
     transition: 0.2s;
+}
+
+.slogan{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
 }
 
 
