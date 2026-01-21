@@ -17,7 +17,7 @@ const CouleurPays = (rate) => {
 };
 
 const Carte = async () => {
-    const response = await fetch('../Data/donnees.json');
+    const response = await fetch('Data/donnees.json');
     const obesityData = await response.json();
     const tooltip = document.getElementById('tooltip');
 
@@ -72,7 +72,7 @@ const chart = document.getElementById("chart");
 const select = document.getElementById("choixPays");
 
 async function chargerData() {
-    const response = await fetch("../Data/child-adolescent-obesity.json");
+    const response = await fetch("Data/child-adolescent-obesity.json");
     data = await response.json();
     initialisationPays();
 }
@@ -137,7 +137,7 @@ chargerData();
 let donneesBurger = {};
 
 async function chargerDonneesBurger() {
-    const response = await fetch("../Data/donnees.json");
+    const response = await fetch("Data/donnees.json");
     donneesBurger = await response.json();
 
     initialiserPaysBurger();
