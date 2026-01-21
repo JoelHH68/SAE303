@@ -4,9 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WorldWideWight</title>
+    <title>WorldWideWeight</title>
+    <link rel="stylesheet" href="Styles/desktop.css">
     <link rel="stylesheet" href="Styles/phone.css">
-    <link rel="stylesheet" href="Styles/desktop.css" media="screen and (min-width: 480px)">
+
     <!-- Font  -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,10 +21,11 @@
 
     <header>
         <div>
-            <img src="Images/terre.png" alt="La terre en guise de logo">
+            <img id="haut" src="Images/terre.png" alt="La terre en guise de logo">
             <div class="titre">WorldWide<span class="weight">Weight</span></div>
+            <div class="titre-court">WW<span class="weight">Weight</span></div>
         </div>
-        <div class="menu" id="haut">
+        <div class="menu" >
             <a href="#carte">Carte du monde</a>
             <a href="#burger">Hommes/Femmes</a>
             <a href="#bouteille">Enfants</a>
@@ -1587,7 +1589,7 @@
 
         <!-- BURGER + BLOC D'INFOS -->
 
-        <div class="container-burger-info" id="burger">
+        <div class="container-burger-info" >
 
             <!-- BLOC D'INFO  -->
 
@@ -1637,7 +1639,7 @@
 
             <!-- BURGERS  -->
 
-            <div class="container-burger">
+            <div class="container-burger" id="burger">
                 <div class="compar">
                     <h2>Comparaison entre le taux d'obésité entre les hommes et les femmes d'un même pays</h2>
                     <p>Pour ce graphique, le nombre de steak correspond au pourcentage de personne homme de chaque sexe dans un même pays.</p>

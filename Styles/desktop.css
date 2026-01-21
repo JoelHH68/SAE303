@@ -48,6 +48,10 @@ header>div>img {
     font-size: 24px;
 }
 
+.titre-court{
+    display: none
+}
+
 .weight {
     color: #3CB371;
     font-weight: 900;
