@@ -19,23 +19,42 @@ const CouleurPays = (rate) => {
 const Carte = async () => {
     const response = await fetch('../Data/donnees.json');
     const obesityData = await response.json();
+    const tooltip = document.getElementById('tooltip');
 
     Object.entries(obesityData).forEach(([nomPays, stats]) => {
-        
 
-        const donneeValide = stats.find(annee => annee.AllAdults_Obesity !== null);
+        const donneeValide = stats.find(
+            annee => annee.AllAdults_Obesity !== null
+        );
 
+        if (!donneeValide) return;
 
-        if (donneeValide) {
-            const rate = donneeValide.AllAdults_Obesity;
+        const rate = donneeValide.AllAdults_Obesity;
 
-            const selector = `path[name="${nomPays}"], path[id="${nomPays}"], path[class="${nomPays}"]`;
-            const targets = document.querySelectorAll(selector);
+        const selector = `path[name="${nomPays}"], path[id="${nomPays}"], path[class="${nomPays}"]`;
+        const targets = document.querySelectorAll(selector);
 
-            targets.forEach(path => {
-                path.style.fill = CouleurPays(rate);
+        targets.forEach(path => {
+            path.style.fill = CouleurPays(rate);
+
+            /* SURVOL */
+            path.addEventListener('mouseenter', () => {
+                tooltip.innerHTML = `
+                    <strong>${nomPays}</strong><br>
+                    ${rate} % d’obésité
+                `;
+                tooltip.classList.add('visible');
             });
-        }
+
+            path.addEventListener('mousemove', (e) => {
+                tooltip.style.left = e.offsetX + 15 + 'px';
+                tooltip.style.top = e.offsetY + 15 + 'px';
+            });
+
+            path.addEventListener('mouseleave', () => {
+                tooltip.classList.remove('visible');
+            });
+        });
     });
 };
 
