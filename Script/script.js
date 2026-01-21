@@ -187,34 +187,3 @@ function majBurger(pays) {
 }
 
 chargerDonneesBurger();
-
-
-
-
-
-// BALANCE
-
-function afficherBalance(surpoids, obesite) {
-    const gauche = document.querySelector(".plateau.gauche");
-    const droite = document.querySelector(".plateau.droite");
-
-    const diff = obesite - surpoids;
-    const angle = Math.max(-12, Math.min(12, diff));
-
-    // reset
-    gauche.style.transform = "rotate(0deg)";
-    droite.style.transform = "rotate(0deg)";
-
-    if (diff > 0) {
-        // obésité plus élevée
-        droite.style.transform = `rotate(${angle}deg)`;
-        gauche.style.transform = `rotate(${-angle}deg)`;
-    } 
-    else if (diff < 0) {
-        // surpoids plus élevé
-        gauche.style.transform = `rotate(${angle}deg)`;
-        droite.style.transform = `rotate(${-angle}deg)`;
-    }
-}
-
-afficherBalance(30, 18);

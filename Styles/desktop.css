@@ -2,7 +2,7 @@
     --font-principale: "Montserrat", sans-serif;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -23,8 +23,8 @@ header {
     color: #1F3A5F;
 }
 
-header>div{
-    display : flex;
+header>div {
+    display: flex;
     gap: 14px;
 }
 
@@ -32,13 +32,13 @@ header>div>img {
     width: 30px;
 }
 
-.menu>a{
+.menu>a {
     text-decoration: none;
     color: #1F3A5F;
     font-weight: 700;
 }
 
-.menu>a:hover{
+.menu>a:hover {
     color: #2F6FED;
     transition: 0.4s;
 }
@@ -48,7 +48,7 @@ header>div>img {
     font-size: 24px;
 }
 
-.weight{
+.weight {
     color: #3CB371;
     font-weight: 900;
 }
@@ -61,7 +61,7 @@ header>div>img {
     max-width: 1100px;
     background-color: #E6EEF7;
     border-radius: 16px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -75,34 +75,34 @@ header>div>img {
     margin: 10px;
 }
 
-.echelle{
+.echelle {
     display: flex;
-    gap : 15px;
-    background-color: rgba(47, 111, 237, 0.08); 
+    gap: 15px;
+    background-color: rgba(47, 111, 237, 0.08);
     padding: 12px 16px;
     border-radius: 12px;
 }
 
-.couleur{
+.couleur {
     padding: 12px;
     width: fit-content;
     border-radius: 8px;
 }
 
-.c1{
+.c1 {
     background-color: #FED976;
 }
 
-.c2{
+.c2 {
     background-color: #FD8D3C;
 }
 
-.c3{
+.c3 {
     background-color: #BD0026;
     color: #fff;
 }
 
-.c4{
+.c4 {
     background-color: #800026;
     color: #fff;
 }
@@ -118,13 +118,18 @@ h1 {
     font-weight: 900;
 }
 
-.trait{
+.trait,
+.trait2 {
     width: 80vw;
     height: 3px;
     background-color: #E6EEF7;
     margin: 0 auto;
     display: block;
-    
+}
+
+.trait2 {
+    margin-top: -40px;
+    margin-bottom: 30px;
 }
 
 
@@ -132,23 +137,25 @@ h1 {
 /* Cases statistiques */
 
 
-.groupe_stat{
+.groupe_stat {
     margin: 25px 0;
     display: flex;
     justify-content: space-around;
-    flex-wrap : wrap;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
-.stats, .bloc_info{
+.stats,
+.bloc_info {
     background-color: #E6EEF7;
     width: 600px;
     padding: 12px;
     text-align: center;
     border-radius: 16px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);    
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
-.stat{
+.stat {
     margin-top: 10px;
     color: #1F3A5F;
     font-weight: 900;
@@ -159,25 +166,30 @@ h1 {
 /* Citation */
 
 blockquote {
-  font-style: italic;
-  text-align: center;
-  max-width: 700px;
-  opacity: 0.85;
-  font-size: 28px;
+    font-style: italic;
+    text-align: center;
+    margin: 4rem auto;
+    max-width: 700px;
+    opacity: 0.85;
+    color: #1F3A5F;
+    font-weight: 800;
+    font-size: 28px;
 }
 
 blockquote cite {
-  display: block;
-  font-style: normal;
-  font-size: 16px;  
+    display: block;
+    margin-top: 1rem;
+    font-size: 16px;
+    font-style: normal;
 }
 
 /* Burger + Bloc d'information */
 
-.container-burger-info{
+.container-burger-info {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 
@@ -204,7 +216,7 @@ blockquote cite {
     margin: 0 0 6px 0;
 }
 
-p > span {
+p>span {
     font-weight: 900;
 }
 
@@ -232,11 +244,11 @@ p > span {
     background-color: #F1EEE8;
     border-radius: 16px;
     padding: 20px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
-    width: 600px; 
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    width: 600px;
 }
 
-.compar{
+.compar {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -244,17 +256,17 @@ p > span {
     margin: 20px 0;
 }
 
-ul{
+ul {
     list-style-type: none;
 }
 
 
-.burgers{
+.burgers {
     display: flex;
     justify-content: space-between;
 }
 
-.centre-burger{
+.centre-burger {
     display: flex;
     gap: 25px;
 }
@@ -281,13 +293,13 @@ ul{
     margin-bottom: 4px;
 }
 
-.silhouette{
-    width: 75px;  
+.silhouette {
+    width: 75px;
 }
 
 
 
-select{
+select {
     background-color: #E6EEF7;
     padding: 8px;
     border: solid black 3px;
@@ -316,116 +328,90 @@ select{
 }
 
 
-.graph_evo{
+.graph_evo {
     margin: 25px;
     display: flex;
-    gap: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
-.chart-container{
+#chart {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* s’adapte à l’écran */
+    gap: 25px; /* espace entre les bouteilles */
+    justify-items: center; /* centre chaque bouteille dans sa cellule */
     background-color: #E6EEF7;
-    display: flex;
     padding: 25px;
     box-shadow: 0 8px 24px rgba(0,0,0,0.5);
     border-radius: 16px;
-    width: 100%;
-    justify-content: space-around; 
-    flex-wrap: wrap;
-    gap: 25px; 
 }
 
-
-.bloc_bouteille{
+.bloc_bouteille {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    word-wrap: wrap;
 }
 
-.pourcentage-label, .year-label{
+.pourcentage-label,
+.year-label {
     font-size: 24px;
     font-weight: 700;
     color: #1F3A5F;
 }
 
 
-.card_evo{
+.card_evo {
     background-color: #F1EEE8;
     border-radius: 16px;
     padding: 20px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
-    width: 450px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px; 
-}
+    gap: 20px;
+}   
 
 
 
 /* FOOTER  */
 
-footer{
-    background-color:#1F3A5F;
+footer {
+    background-color: #1F3A5F;
     color: #fff;
     text-decoration: none;
     padding: 32px;
 }
 
-.haut-footer{
+.haut-footer {
     display: flex;
     justify-content: space-around;
 }
 
-.menu-footer{
+.menu-footer {
     display: flex;
     flex-direction: column;
     gap: 8px;
 }
 
-footer div a{
+footer div a {
     text-decoration: none;
     color: #fff;
     display: flex;
     flex-direction: column;
 }
 
-footer div a:hover{
+footer div a:hover {
     color: #7A8CA3;
     transition: 0.2s;
 }
 
-.slogan{
+.slogan {
     text-align: center;
     font-size: 12px;
     margin-top: 20px;
 }
-
-
-
-
-/* BALANCE
-
-.balance {
-    width: 200px;
-    margin: 30px auto;
-}
-
-.balance svg {
-    width: 100%;
-    height: auto;
-}
-
-.plateau {
-    transition: transform 0.5s ease;
-}
-
-/* points de rotation */
-/* .gauche {
-    transform-origin: 65px 110px;
-}
-
-.droite {
-    transform-origin: 285px 110px;
-}  */

@@ -2,8 +2,416 @@
     --font-principale: "Montserrat", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
-body{
+body {
     margin: 0;
     font-family: var(--font-principale);
+    background-color: #F5F7FA;
+}
+
+/* Style du header */
+
+header {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    justify-content: space-between;
+    color: #1F3A5F;
+}
+
+header>div{
+    display : flex;
+    gap: 14px;
+}
+
+header>div>img {
+    width: 30px;
+}
+
+.menu>a{
+    text-decoration: none;
+    color: #1F3A5F;
+    font-weight: 700;
+}
+
+.menu>a:hover{
+    color: #2F6FED;
+    transition: 0.4s;
+}
+
+.titre {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.weight{
+    color: #3CB371;
+    font-weight: 900;
+}
+
+
+/* Zone de la carte du monde */
+
+.container-carte {
+    width: 100%;
+    max-width: 1100px;
+    background-color: #E6EEF7;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.container-carte svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px;
+}
+
+.echelle{
+    display: flex;
+    gap : 15px;
+    background-color: rgba(47, 111, 237, 0.08); 
+    padding: 12px 16px;
+    border-radius: 12px;
+}
+
+.couleur{
+    padding: 12px;
+    width: fit-content;
+    border-radius: 8px;
+}
+
+.c1{
+    background-color: #FED976;
+}
+
+.c2{
+    background-color: #FD8D3C;
+}
+
+.c3{
+    background-color: #BD0026;
+    color: #fff;
+}
+
+.c4{
+    background-color: #800026;
+    color: #fff;
+}
+
+
+
+/* Titre  */
+
+h1 {
+    color: #1F3A5F;
+    text-align: center;
+    margin: 25px;
+    font-weight: 900;
+}
+
+.trait, .trait2{
+    width: 80vw;
+    height: 3px;
+    background-color: #E6EEF7;
+    margin: 0 auto;
+    display: block;  
+}
+
+.trait2{
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+
+
+
+/* Cases statistiques */
+
+
+.groupe_stat{
+    margin: 25px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap : wrap;
+    gap: 20px;
+}
+
+.stats, .bloc_info{
+    background-color: #E6EEF7;
+    width: 600px;
+    padding: 12px;
+    text-align: center;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);    
+}
+
+.stat{
+    margin-top: 10px;
+    color: #1F3A5F;
+    font-weight: 900;
+    font-size: 32px;
+}
+
+
+/* Citation */
+
+blockquote {
+  font-style: italic;
+  text-align: center;
+  margin: 4rem auto;
+  max-width: 700px;
+  opacity: 0.85;
+  color: #1F3A5F;
+  font-weight: 800;
+  font-size: 28px;   
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 1rem;
+  font-size: 16px;
+  font-style: normal;
+}
+
+/* Burger + Bloc d'information */
+
+.container-burger-info{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+/* Bloc Info */
+
+.bloc_info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.bloc_info div {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.bloc_info p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.bloc_info h2 {
+    margin: 0 0 6px 0;
+}
+
+p > span {
+    font-weight: 900;
+}
+
+.bloc_info ul {
+    margin: 4px 0 0 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.bloc_info li {
+    margin-bottom: 4px;
+    line-height: 1.4;
+}
+
+.bloc_info a {
+    margin-top: 2px;
+    width: fit-content;
+    align-self: center;
+}
+
+
+/* Burgers */
+
+.container-burger {
+    background-color: #F1EEE8;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    width: 600px; 
+}
+
+.compar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+.burgers{
+    display: flex;
+    justify-content: space-between;
+}
+
+.centre-burger{
+    display: flex;
+    gap: 25px;
+}
+
+
+
+.burger svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.steak {
+    width: 100%;
+    height: 20px;
+    background-color: #7B5E4B;
+    margin-bottom: 2px;
+    border-radius: 10px;
+}
+
+.salade {
+    width: 160px;
+    margin-top: -55px;
+    margin-bottom: 4px;
+}
+
+.silhouette{
+    width: 75px;  
+}
+
+
+
+select{
+    background-color: #E6EEF7;
+    padding: 8px;
+    border: solid black 3px;
+    border-radius: 10px;
+}
+
+
+/* BOUTEILLES  */
+
+/* BOUTEILLES  */
+
+.container_bouteille {
+    position: relative;
+    width: 86px;
+    height: 290px;
+    background: #fbfbfb;
+    overflow: hidden;
+    clip-path: path("M57.9099 29.4111L57.9939 30.8203C58.2339 34.8204 59.0584 41.2913 60.7351 47.5479C62.453 53.958 64.9007 59.4904 67.9998 62.2637L68.0066 62.2705L68.0378 62.2988L68.0652 62.3232L68.1208 62.3789C69.8929 64.1512 74.1228 70.0722 79.6169 81.418L80.1531 82.5332L80.155 82.5381L80.7146 83.7227L80.7166 83.7266L80.7537 83.8057L80.7917 83.8867L80.8201 83.9727L80.8455 84.0508C81.3625 85.6018 82.1322 88.093 82.7771 90.5693C83.3907 92.9255 83.9998 95.6592 83.9998 97.5C83.9998 99.4662 83.7179 101.461 83.5447 103.02C83.3574 104.705 83.2843 105.958 83.4587 107.006C83.5507 107.558 83.5966 108.705 83.6345 109.972C83.6762 111.363 83.7139 113.228 83.7468 115.444C83.8127 119.88 83.8626 125.77 83.9001 132.195C83.975 145.013 83.9977 159.996 83.9978 169.917C84.1653 172.375 84.3661 176.162 84.4246 179.714C84.4542 181.517 84.4488 183.293 84.3816 184.818C84.3242 186.119 84.21 187.443 83.9705 188.468C83.717 191.572 83.2994 196.25 82.8445 200.483C82.6117 202.65 82.3672 204.721 82.1277 206.415C81.9033 208.002 81.6474 209.543 81.3455 210.449C81.2036 210.875 81.0095 211.855 80.8494 213.357C80.6961 214.795 80.5923 216.532 80.5623 218.361C80.5018 222.049 80.7527 225.778 81.3699 228.116C83.1186 232.81 85.1227 240.567 85.6443 249.079C86.1704 257.665 85.2117 267.371 80.6091 275.48C79.7877 277.02 78.4001 279.286 76.8005 281.223C75.9904 282.204 75.0484 283.196 74.0251 283.967C73.1213 284.648 71.8345 285.4 70.3083 285.491L69.9998 285.5C68.4169 285.5 67.809 285.698 66.0974 285.861C64.4786 286.015 62.6831 285.996 59.9119 285.441C57.1246 284.884 55.1161 283.7 53.8142 282.321C53.4401 282.917 53.0185 283.538 52.5525 284.147L52.1511 284.657C50.8197 286.292 48.8002 288.267 46.2283 288.91L46.1541 288.929L46.115 288.937L46.0798 288.943L46.0789 288.942C45.8618 288.986 45.5836 289.04 45.2742 289.096V289.5H43.7742C43.4904 289.5 43.1796 289.475 42.8855 289.445C42.5925 289.475 42.2829 289.5 41.9998 289.5H40.4998V289.096C40.1899 289.04 39.9113 288.986 39.6941 288.942V288.943L39.6589 288.937L39.6199 288.929L39.5457 288.91C36.9737 288.267 34.9542 286.292 33.6228 284.657C32.9958 283.887 32.4378 283.084 31.9587 282.321C30.6568 283.699 28.6487 284.884 25.8621 285.441C23.091 285.996 21.2952 286.015 19.6765 285.861C18.1789 285.719 17.5257 285.549 16.3259 285.509L15.7742 285.5C14.1127 285.5 12.7129 284.693 11.7488 283.967C10.7255 283.196 9.78355 282.204 8.97339 281.223C7.37384 279.286 5.98626 277.021 5.16479 275.48C0.562149 267.371 -0.396456 257.665 0.129639 249.079C0.651335 240.565 2.65516 232.808 4.40405 228.114C5.02085 225.776 5.2721 222.048 5.21167 218.361C5.18168 216.532 5.07778 214.795 4.92456 213.357C4.76442 211.855 4.57034 210.875 4.42847 210.449C4.12646 209.543 3.87059 208.002 3.64624 206.415C3.40674 204.721 3.16223 202.65 2.92944 200.483C2.4745 196.25 2.056 191.572 1.80249 188.468C1.563 187.443 1.4497 186.119 1.39233 184.818C1.32509 183.293 1.31971 181.517 1.34937 179.714C1.40779 176.162 1.60765 172.375 1.77515 169.917C1.77528 159.996 1.79894 145.013 1.87378 132.195C1.9113 125.77 1.96127 119.88 2.0271 115.444C2.05999 113.228 2.09773 111.363 2.1394 109.972C2.17735 108.705 2.22325 107.558 2.31519 107.006C2.48959 105.958 2.41651 104.705 2.22925 103.02C2.05607 101.461 1.77417 99.4662 1.77417 97.5C1.77417 95.6591 2.38324 92.9255 2.99683 90.5693C3.64172 88.093 4.41149 85.6017 4.92847 84.0508L4.95386 83.9727L4.98218 83.8867L5.02026 83.8057L5.05737 83.7266L5.05933 83.7227L5.6189 82.5381L5.62085 82.5332C11.3754 70.4582 15.8241 64.208 17.6531 62.3789L17.7087 62.3232L17.7361 62.2988L17.7673 62.2705L17.7742 62.2637C20.873 59.4902 23.321 53.9577 25.0388 47.5479C26.7155 41.2913 27.54 34.8203 27.78 30.8203L27.864 29.4111L27.948 28H57.8259L57.9099 29.4111ZM53.9998 0C55.6834 0.000257733 56.8627 1.04649 57.5271 1.86328C58.2192 2.7145 58.6721 3.69201 58.8972 4.36719L58.8992 4.37305L58.9246 4.4502L58.9998 4.67871V22H25.9998V5C25.9998 3.31602 27.0461 2.1371 27.863 1.47266C28.7142 0.780628 29.6918 0.327653 30.3669 0.102539L30.3728 0.100586L30.45 0.0751953L30.6785 0H53.9998Z");
+}
+
+.liquide {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 0%;
+    background: #3498db;
+    transition: height 1.2s ease;
+}
+
+
+.graph_evo {
+    margin: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#chart {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* s’adapte à l’écran */
+    gap: 25px; /* espace entre les bouteilles */
+    justify-items: center; /* centre chaque bouteille dans sa cellule */
+    background-color: #E6EEF7;
+    padding: 25px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    border-radius: 16px;
+}
+
+.bloc_bouteille {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    word-wrap: wrap;
+}
+
+.pourcentage-label,
+.year-label {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F3A5F;
+}
+
+
+.card_evo {
+    background-color: #F1EEE8;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}   
+
+
+
+/* FOOTER  */
+
+footer{
+    background-color:#1F3A5F;
+    color: #fff;
+    text-decoration: none;
+    padding: 32px;
+}
+
+.haut-footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+footer div a{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+footer div a:hover{
+    color: #7A8CA3;
+    transition: 0.2s;
+}
+
+.slogan{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
 }
