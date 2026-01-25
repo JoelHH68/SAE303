@@ -14,19 +14,11 @@ body {
 
 
 /* Page de chargement */
-
-body>*:not(#loader) {
-    display: none;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-}
-
-/* Loader plein écran */
 #loader {
     position: fixed;
-    inset: 0;
-    background: white;
-    z-index: 9999;
+    inset: 0;               /* top:0; right:0; bottom:0; left:0 */
+    background: #F5F7FA;      /* fond de la page de chargement */
+    z-index: 9999;          /* toujours au-dessus du reste du site */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,59 +31,41 @@ body>*:not(#loader) {
     color: #333;
 }
 
-/* Container des images */
+/* Container pour les images */
 .loader {
     position: relative;
     width: 300px;
     height: 400px;
 }
 
-/* Images PNG superposées */
+/* PNG superposés */
 .etat {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     opacity: 0;
+    z-index: 1; 
 }
 
-/* Animations de chaque état */
-.etat1 {
-    animation: ventre 1s infinite;
+#loader p {
+    z-index: 2; 
 }
 
-.etat2 {
-    animation: ventre 1s infinite 0.25s;
-}
 
-.etat3 {
-    animation: ventre 1s infinite 0.5s;
-}
+/* Animations pour chaque état */
+.etat1 { animation: ventre 2s infinite; }
+.etat2 { animation: ventre 2s infinite 0.5s; }
+.etat3 { animation: ventre 2s infinite 1s; }
+.etat4 { animation: ventre 2s infinite 1.5s; }
 
-.etat4 {
-    animation: ventre 1s infinite 0.75s;
-}
-
+/* Keyframes : apparition puis disparition du bonhomme */
 @keyframes ventre {
-    0% {
-        opacity: 0;
-    }
-
-    10% {
-        opacity: 1;
-    }
-
-    40% {
-        opacity: 1;
-    }
-
-    50% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 0;
-    }
+    0%   { opacity: 0; }
+    10%  { opacity: 1; }
+    40%  { opacity: 1; }
+    50%  { opacity: 0; }
+    100% { opacity: 0; }
 }
 
 /* Style du header */

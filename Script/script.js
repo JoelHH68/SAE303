@@ -1,27 +1,10 @@
 // Page de chargement
 
-const startTime = Date.now();
-    const minTime = 3000; // 3 secondes minimum
-
-    window.addEventListener("load", () => {
-      const loader = document.getElementById("loader");
-      const content = document.querySelectorAll("body > *:not(#loader)");
-
-      const elapsed = Date.now() - startTime;
-      const remaining = minTime - elapsed;
-
-      setTimeout(() => {
-        loader.style.display = "none";
-        content.forEach(el => {
-          el.style.display = "block";
-          setTimeout(() => {
-            el.style.opacity = "1";
-          }, 50); // petit delay pour fade
-        });
-      }, Math.max(0, remaining));
-    });
-
-
+window.addEventListener("load", () => {
+  setTimeout(() => {
+    document.getElementById("loader").style.display = "none";
+  }, 3000); // ou la durée que tu veux
+});
 
 
 // Burger Menu pour header 
