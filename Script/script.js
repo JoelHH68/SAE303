@@ -1,3 +1,29 @@
+// Page de chargement
+
+const startTime = Date.now();
+    const minTime = 3000; // 3 secondes minimum
+
+    window.addEventListener("load", () => {
+      const loader = document.getElementById("loader");
+      const content = document.querySelectorAll("body > *:not(#loader)");
+
+      const elapsed = Date.now() - startTime;
+      const remaining = minTime - elapsed;
+
+      setTimeout(() => {
+        loader.style.display = "none";
+        content.forEach(el => {
+          el.style.display = "block";
+          setTimeout(() => {
+            el.style.opacity = "1";
+          }, 50); // petit delay pour fade
+        });
+      }, Math.max(0, remaining));
+    });
+
+
+
+
 // Burger Menu pour header 
 
 const burger = document.querySelector(".menu-burger");
@@ -6,8 +32,9 @@ const burger = document.querySelector(".menu-burger");
         burger.classList.toggle("open");
     });
 
-// Carte du monde
 
+
+// Carte du monde
 
 const CouleurPays = (rate) => {
     if (rate > 35) return '#800026';

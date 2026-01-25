@@ -12,6 +12,88 @@ body {
     background-color: #F5F7FA;
 }
 
+
+/* Page de chargement */
+
+body>*:not(#loader) {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+/* Loader plein écran */
+#loader {
+    position: fixed;
+    inset: 0;
+    background: white;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#loader p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Container des images */
+.loader {
+    position: relative;
+    width: 300px;
+    height: 400px;
+}
+
+/* Images PNG superposées */
+.etat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+}
+
+/* Animations de chaque état */
+.etat1 {
+    animation: ventre 1s infinite;
+}
+
+.etat2 {
+    animation: ventre 1s infinite 0.25s;
+}
+
+.etat3 {
+    animation: ventre 1s infinite 0.5s;
+}
+
+.etat4 {
+    animation: ventre 1s infinite 0.75s;
+}
+
+@keyframes ventre {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 1;
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
 /* Style du header */
 
 header {
@@ -49,7 +131,7 @@ header>div>img {
     font-size: 24px;
 }
 
-.titre-court{
+.titre-court {
     display: none
 }
 
@@ -373,12 +455,15 @@ select {
 
 #chart {
     display: grid;
-    grid-template-columns: repeat(7, 1fr); /* s’adapte à l’écran */
-    gap: 25px; /* espace entre les bouteilles */
-    justify-items: center; /* centre chaque bouteille dans sa cellule */
+    grid-template-columns: repeat(7, 1fr);
+    /* s’adapte à l’écran */
+    gap: 25px;
+    /* espace entre les bouteilles */
+    justify-items: center;
+    /* centre chaque bouteille dans sa cellule */
     background-color: #E6EEF7;
     padding: 25px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     border-radius: 16px;
 }
 
@@ -409,7 +494,7 @@ select {
     align-items: center;
     justify-content: center;
     gap: 20px;
-}   
+}
 
 
 
@@ -458,12 +543,12 @@ footer div a:hover {
 
     /* Style du header */
 
-    header{
+    header {
         padding: 8px;
         align-items: center;
     }
 
-    header div{
+    header div {
         align-items: center;
     }
 
@@ -474,25 +559,25 @@ footer div a:hover {
     }
 
 
-    .titre{
+    .titre {
         display: none;
     }
 
-    .menu{
+    .menu {
         display: none;
     }
 
-    
+
     .menu-burger {
         position: relative;
     }
 
-    
+
     .menu-burger svg {
         display: block;
     }
 
-    
+
     .menu {
         position: absolute;
         top: 120%;
@@ -514,7 +599,7 @@ footer div a:hover {
         font-size: 12px;
     }
 
-    
+
     .menu-burger.open .menu {
         opacity: 1;
         transform: translateY(0);
@@ -524,11 +609,11 @@ footer div a:hover {
 
     /* Zone de la carte du monde */
 
-    main{
+    main {
         padding: 8px;
     }
 
-    .echelle{
+    .echelle {
         font-size: 12px;
     }
 
@@ -541,11 +626,12 @@ footer div a:hover {
         align-items: center;
     }
 
-    .burger-homme, .burger-femme{
+    .burger-homme,
+    .burger-femme {
         width: 150px;
     }
 
-    .silhouette{
+    .silhouette {
         width: 25px;
     }
 
@@ -555,26 +641,26 @@ footer div a:hover {
     /* BOUTEILLES  */
     #chart {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); 
-        gap: 25px; 
-        justify-items: center; 
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+        justify-items: center;
         background-color: #E6EEF7;
         padding: 25px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
         border-radius: 16px;
     }
 
     /* FOOTER  */
 
-    footer{
-        background-color:#1F3A5F;
+    footer {
+        background-color: #1F3A5F;
         color: #fff;
         text-decoration: none;
         padding: 32px;
         font-size: 12px;
     }
 
-    .haut-footer{
+    .haut-footer {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -582,20 +668,20 @@ footer div a:hover {
         text-align: center;
     }
 
-    .menu-footer{
+    .menu-footer {
         display: flex;
         flex-direction: column;
         gap: 8px;
     }
 
-    footer div a{
+    footer div a {
         text-decoration: none;
         color: #fff;
         display: flex;
         flex-direction: column;
     }
 
-    .slogan{
+    .slogan {
         font-size: 10px;
     }
 
